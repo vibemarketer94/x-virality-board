@@ -1,0 +1,251 @@
+{
+  "tracking_start": "2026-10-23",
+  "timezone": "Europe/Oslo",
+  "threshold": 5000,
+  "days": {
+    "2026-10-23": {
+      "accounts": {
+        "ryangrowthh": {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 3,
+          "best": 121122,
+          "total": 141907,
+          "best_url": "https://x.com/ryangrowthh/status/2113540940472463606"
+        },
+        "jaysmith_ai": {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "hits": 1,
+          "best": 61080,
+          "total": 61080,
+          "best_url": "https://x.com/jaysmith_ai/status/2113697034616385800"
+        },
+        "exm7777": {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 4,
+          "best": 51800,
+          "total": 108177,
+          "best_url": "https://x.com/EXM7777/status/2113692938236748065"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 3,
+          "best": 47577,
+          "total": 62445,
+          "best_url": "https://x.com/tibo_maker/status/2113633105776890343"
+        },
+        "ecoleai": {
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "hits": 1,
+          "best": 33440,
+          "total": 33440,
+          "best_url": "https://x.com/ecoleai/status/2113534881183695241"
+        },
+        "alexcooldev": {
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "hits": 2,
+          "best": 18802,
+          "total": 24917,
+          "best_url": "https://x.com/alexcooldev/status/2113708852147638345"
+        },
+        "aiedge_": {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "hits": 1,
+          "best": 18662,
+          "total": 18662,
+          "best_url": "https://x.com/aiedge_/status/2113646686988067028"
+        },
+        "iksly2": {
+          "handle": "@iksly2",
+          "name": "Kemi",
+          "hits": 1,
+          "best": 17126,
+          "total": 17126,
+          "best_url": "https://x.com/iksly2/status/2113533810759397760"
+        },
+        "hectorserrranoo": {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "hits": 2,
+          "best": 14682,
+          "total": 20677,
+          "best_url": "https://x.com/hectorserrranoo/status/2113676414973259782"
+        },
+        "camolnft": {
+          "handle": "@camolNFT",
+          "name": "camol",
+          "hits": 2,
+          "best": 12931,
+          "total": 21314,
+          "best_url": "https://x.com/camolNFT/status/2113401536436900274"
+        },
+        "rubenhassid": {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "hits": 1,
+          "best": 8825,
+          "total": 8825,
+          "best_url": "https://x.com/rubenhassid/status/2113586238997385454"
+        },
+        "trace_cohen": {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "hits": 1,
+          "best": 6590,
+          "total": 6590,
+          "best_url": "https://x.com/Trace_Cohen/status/2113620362017624408"
+        }
+      }
+    },
+    "2026-10-24": {
+      "accounts": {
+        "rubenhassid": {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "hits": 1,
+          "best": 75612,
+          "total": 75612,
+          "best_url": "https://x.com/rubenhassid/status/2113948625927852196"
+        },
+        "ecoleai": {
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "hits": 1,
+          "best": 74749,
+          "total": 74749,
+          "best_url": "https://x.com/ecoleai/status/2114096091973173311"
+        },
+        "ryangrowthh": {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 1,
+          "best": 28609,
+          "total": 28609,
+          "best_url": "https://x.com/ryangrowthh/status/2114033228361449488"
+        },
+        "exm7777": {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 4,
+          "best": 25734,
+          "total": 54926,
+          "best_url": "https://x.com/EXM7777/status/2114016937663660530"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 2,
+          "best": 22943,
+          "total": 37239,
+          "best_url": "https://x.com/tibo_maker/status/2113984722036785274"
+        },
+        "heyyogb": {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "hits": 1,
+          "best": 8977,
+          "total": 8977,
+          "best_url": "https://x.com/HeyYoGB/status/2113969506062413831"
+        },
+        "trace_cohen": {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "hits": 1,
+          "best": 7356,
+          "total": 7356,
+          "best_url": "https://x.com/Trace_Cohen/status/2114045221138735283"
+        }
+      }
+    },
+    "2026-10-25": {
+      "accounts": {
+        "sahilypatel": {
+          "handle": "@sahilypatel",
+          "name": "Sahil",
+          "hits": 2,
+          "best": 442722,
+          "total": 715516,
+          "best_url": "https://x.com/sahilypatel/status/2114348755357249622"
+        },
+        "jaysmith_ai": {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "hits": 1,
+          "best": 53695,
+          "total": 53695,
+          "best_url": "https://x.com/jaysmith_ai/status/2114202560118853634"
+        },
+        "ryangrowthh": {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 2,
+          "best": 39404,
+          "total": 50400,
+          "best_url": "https://x.com/ryangrowthh/status/2114167560690413870"
+        },
+        "eptwts": {
+          "handle": "@eptwts",
+          "name": "EP",
+          "hits": 1,
+          "best": 20003,
+          "total": 20003,
+          "best_url": "https://x.com/eptwts/status/2114326916060622954"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 2,
+          "best": 16665,
+          "total": 24104,
+          "best_url": "https://x.com/tibo_maker/status/2114343809454625168"
+        },
+        "exm7777": {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 3,
+          "best": 14285,
+          "total": 40212,
+          "best_url": "https://x.com/EXM7777/status/2114460995066474940"
+        },
+        "heyyogb": {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "hits": 1,
+          "best": 12578,
+          "total": 12578,
+          "best_url": "https://x.com/HeyYoGB/status/2114327364012548575"
+        },
+        "alexcooldev": {
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "hits": 1,
+          "best": 11788,
+          "total": 11788,
+          "best_url": "https://x.com/alexcooldev/status/2114379700802076753"
+        },
+        "trace_cohen": {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "hits": 1,
+          "best": 11351,
+          "total": 11351,
+          "best_url": "https://x.com/Trace_Cohen/status/2114328555580489777"
+        },
+        "aiedge_": {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "hits": 2,
+          "best": 6375,
+          "total": 11745,
+          "best_url": "https://x.com/aiedge_/status/2114405377127186593"
+        }
+      }
+    }
+  }
+}

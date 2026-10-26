@@ -1,0 +1,4542 @@
+{
+  "updated_at": "2026-10-26 09:50 CET",
+  "date": "2026-10-25",
+  "window": "2026-10-25 00:00 -> 24:00 Europe/Oslo (CET)",
+  "timezone": "Europe/Oslo",
+  "watchlist_size": 25,
+  "hits_count": 16,
+  "star_hits_count": 13,
+  "total_views": 951392,
+  "operator": {
+    "handle": "@VibeMarketer_",
+    "name": "J.B.",
+    "id": "362697164",
+    "followers_count": 38083,
+    "following_count": 885,
+    "tweet_count": 5473,
+    "best_views": 2827,
+    "total_views": 7334,
+    "posts_count": 3,
+    "rank_among_watchlist": 15,
+    "total_accounts": 26
+  },
+  "you_rank": {
+    "handle": "@VibeMarketer_",
+    "best_views": 2827,
+    "total_views": 7334,
+    "posts_count": 3,
+    "best_url": "https://x.com/VibeMarketer_/status/2114357060607639645",
+    "rank_among_watchlist": 15,
+    "total_accounts": 26,
+    "vs_5k": "pending",
+    "vs_10k": "pending"
+  },
+  "hits": [
+    {
+      "id": "2114348755357249622",
+      "handle": "@sahilypatel",
+      "name": "Sahil",
+      "views": 442722,
+      "views_label": "442.7K",
+      "likes": 7963,
+      "bookmarks": 2268,
+      "retweets": 244,
+      "replies": 71,
+      "quotes": 29,
+      "engagement": 10575,
+      "engagement_rate": 2.39,
+      "bookmark_like_ratio": 28.5,
+      "baseline_multiple": 179.2,
+      "virality_score": 78,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 14:30 CET",
+      "url": "https://x.com/sahilypatel/status/2114348755357249622",
+      "hook": "imagine being so smart that your college professor calls you a “national treasure” and personally asks elon musk and larry page to hire you",
+      "original_en": "imagine being so smart that your college professor calls you a “national treasure” and personally asks elon musk and larry page to hire you  \n\nand musk actually ends up offering you a job at spacex.  \n\nthis was dario amodei in college https://t.co/KexuTnP62p",
+      "draft_en": "how to spot outlier technical builders 6 months before everyone else in tech tries to hire or fund them\n\nwaiting until someone launches a flashy landing page or raises a big seed round means you are already 6 months late\n\nby then every recruiter and fund is already in their inbox\n\nrun this 3-step sourcing loop every sunday in `talent_radar.md`\n\n- pull the top 5 contributors shipping weekly commits to core open-source agent workflows and inference repos\n- check whose academic papers or benchmark repos get cited directly by lab leads in release notes\n- track builders who publish raw failure logs and custom evaluations on new models instead of generic hype threads\n- send a 3-line note referencing a specific commit or benchmark edge case they solved that week",
+      "video_tip": "60s screen recording: show your talent_radar.csv and github_commits.py script pulling top contributor velocity on open-source AI models before they announce a company.",
+      "draft_keywords": [
+        "agent",
+        "workflows",
+        "models"
+      ],
+      "board_rank": 1,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.027,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1,
+      "posted_at": "2026-10-25T14:30:00+01:00",
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114222189725790329",
+      "handle": "@sahilypatel",
+      "name": "Sahil",
+      "views": 272794,
+      "views_label": "272.8K",
+      "likes": 1034,
+      "bookmarks": 295,
+      "retweets": 12,
+      "replies": 20,
+      "quotes": 1,
+      "engagement": 1362,
+      "engagement_rate": 0.5,
+      "bookmark_like_ratio": 28.5,
+      "baseline_multiple": 110.4,
+      "virality_score": 75,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 06:07 CET",
+      "url": "https://x.com/sahilypatel/status/2114222189725790329",
+      "hook": "the aura you gain after leaving a tech company needs to be studied https://t.co/EJoQqM1IKT",
+      "original_en": "the aura you gain after leaving a tech company needs to be studied https://t.co/EJoQqM1IKT",
+      "draft_en": "how to replace a slow 6-person team and slow workflows with a solo operator stack the week you go independent\n\nwhen you leave a big company your biggest advantage is zero internal permission loops\n\nhere is the exact 4-file setup to ship faster in 1 day than your old team shipped in 1 quarter\n\n- `roadmap_now.md` - cap active work to 1 product feature and 1 distribution channel per week\n- `inbox_triage.py` - connect an agent to your CRM and email so lead replies get drafted in 3 minutes\n- `daily_ship.md` - log 1 public artifact every afternoon from real work you built that morning\n- `stripe_weekly.csv` - review net new cash every friday and cut any task that did not move pipeline in 2 weeks",
+      "video_tip": "45s split-screen video: left side shows a bloated 8-person approval calendar, right side shows a solo operator shipping a live feature + outbound sequence in 20 minutes.",
+      "draft_keywords": [
+        "workflows",
+        "agent",
+        "CRM"
+      ],
+      "board_rank": 2,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.016,
+        "max_copied_run": 1
+      },
+      "top10_rank": 2,
+      "posted_at": "2026-10-25T06:07:00+01:00",
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114202560118853634",
+      "handle": "@jaysmith_ai",
+      "name": "Jay",
+      "views": 53695,
+      "views_label": "53.7K",
+      "likes": 123,
+      "bookmarks": 3,
+      "retweets": 9,
+      "replies": 9,
+      "quotes": 0,
+      "engagement": 144,
+      "engagement_rate": 0.27,
+      "bookmark_like_ratio": 2.4,
+      "baseline_multiple": 1.0,
+      "virality_score": 55,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 04:49 CET",
+      "url": "https://x.com/jaysmith_ai/status/2114202560118853634",
+      "hook": "Ready to rethink the way you create videos? 💬🚀",
+      "original_en": "Ready to rethink the way you create videos? 💬🚀\n\nCapCut World brought the creative community together in LA to explore how AI can make video production feel more like a conversation.\n\nStart with the CapCut plugin on ChatGPT desktop through early access, then perfect your content in CapCut Web.\n\nChatGPT mobile and web support is expected in mid-November.\n\n#CapCutDidThat #ChatGPT #CapCutWorld",
+      "draft_en": "how to cut short-form video production from 3 hours to 9 minutes using conversational AI video workflows\n\nediting videos by dragging timeline clips manually eats 3 hours of your afternoon for a single short clip\n\nwire your script and rough cut into a 3-step pipeline instead\n\n- draft a 4-row hook and visual beat sheet inside `video_script.md` with Claude Code using your top-saving posts\n- feed the beat sheet into the CapCut plugin inside ChatGPT to generate the base timeline and captions automatically\n- open the project in CapCut Web and swap the first 4 seconds with a real screen recording of your terminal or dashboard\n- export 2 hook variants per clip so you test the opening frame without re-recording the body",
+      "video_tip": "60s screencast: show ChatGPT desktop triggering the CapCut plugin from a 3-column script table, then swapping in real terminal B-roll in CapCut Web in under 3 minutes.",
+      "draft_keywords": [
+        "videos",
+        "workflows",
+        "Claude Code"
+      ],
+      "board_rank": 3,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.111,
+        "max_copied_run": 3
+      },
+      "top10_rank": 3,
+      "posted_at": "2026-10-25T04:49:00+01:00",
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "AI Models & Video Production"
+      }
+    },
+    {
+      "id": "2114167560690413870",
+      "handle": "@ryangrowthh",
+      "name": "Ryan",
+      "views": 39404,
+      "views_label": "39.4K",
+      "likes": 511,
+      "bookmarks": 793,
+      "retweets": 20,
+      "replies": 155,
+      "quotes": 2,
+      "engagement": 1481,
+      "engagement_rate": 3.76,
+      "bookmark_like_ratio": 155.2,
+      "baseline_multiple": 13.4,
+      "virality_score": 91,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 02:30 CET",
+      "url": "https://x.com/ryangrowthh/status/2114167560690413870",
+      "hook": "50 valuable Grok Bots for 𝕏 creators:",
+      "original_en": "50 valuable Grok Bots for 𝕏 creators:\n\nJust tag @bot to install a few https://t.co/lbqhabhJnP",
+      "draft_en": "how to pick the only 4 Grok Bots out of 50 creator lists that actually move views and revenue\n\ninstalling 50 random Grok Bots at once just turns your notifications into noise\n\nstart by wiring these 4 focused workflows into your daily operator loop\n\n- ` outlier_scout ` - a Grok Bot that scans your niche watchlist every morning for posts clearing 5k views and 2x bookmark-to-like ratios\n- ` reply_sniper ` - surfaces high-velocity threads from peers in your tier within 5 minutes of posting\n- ` hook_auditor ` - rewrites your opening 2 lines against your past top 5% posts before you hit publish\n- ` sponsor_tracker ` - logs every brand sponsoring creators in your vertical into a clean weekly table",
+      "video_tip": "50s screen recording: show tagging @bot on X to install 3 creator Grok Bots, then show the daily digest landing in your inbox at 8am.",
+      "draft_keywords": [
+        "Grok Bots",
+        "Grok Bot",
+        "workflows"
+      ],
+      "board_rank": 4,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.066,
+        "max_copied_run": 2
+      },
+      "top10_rank": 4,
+      "posted_at": "2026-10-25T02:30:00+01:00",
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Grok Bot",
+          "Grok Bots"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Grok Bot & Agent Swarms"
+      }
+    },
+    {
+      "id": "2114326916060622954",
+      "handle": "@eptwts",
+      "name": "EP",
+      "views": 20003,
+      "views_label": "20.0K",
+      "likes": 429,
+      "bookmarks": 311,
+      "retweets": 6,
+      "replies": 38,
+      "quotes": 3,
+      "engagement": 787,
+      "engagement_rate": 3.93,
+      "bookmark_like_ratio": 72.5,
+      "baseline_multiple": 0.9,
+      "virality_score": 58,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 13:03 CET",
+      "url": "https://x.com/eptwts/status/2114326916060622954",
+      "hook": "i've been thinking about what the most AI-proof online business models are, here's my conclusion:",
+      "original_en": "i've been thinking about what the most AI-proof online business models are, here's my conclusion:\n\n> marketplaces\n> dating apps\n> casinos\n> communities\n> telehealth\n> payments\n\nhonorable mention: personal brands - technically not a business model, but owning attention is a launchpad for any type of business, whether that's your own or another business pays you to promote theirs",
+      "draft_en": "how to audit whether your online business will get crushed by new AI models or compound over the next 3 years\n\npure software wrappers get cloned in a weekend whenever a lab ships a new model update\n\nif you want durable cash flow pair your agent workflows with one of these 4 moats\n\n> two-sided liquidity where buyers and sellers already trust the marketplace escrow\n> regulated trust layers like telehealth or payments where compliance takes months to clear\n> high-retention communities where members stay for peer access and verified deal flow\n> founder-led distribution where your personal audience lowers customer acquisition cost to zero",
+      "video_tip": "60s whiteboard + screen walkthrough: score 6 online business models on liquidity moat, regulatory moat, and personal distribution leverage.",
+      "draft_keywords": [
+        "models",
+        "workflows",
+        "agent"
+      ],
+      "board_rank": 5,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.153,
+        "max_copied_run": 2
+      },
+      "top10_rank": 5,
+      "posted_at": "2026-10-25T13:03:00+01:00",
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "AI Models & Video Production"
+      }
+    },
+    {
+      "id": "2114343809454625168",
+      "handle": "@tibo_maker",
+      "name": "Tibo",
+      "views": 16665,
+      "views_label": "16.7K",
+      "likes": 77,
+      "bookmarks": 37,
+      "retweets": 0,
+      "replies": 80,
+      "quotes": 2,
+      "engagement": 196,
+      "engagement_rate": 1.18,
+      "bookmark_like_ratio": 48.1,
+      "baseline_multiple": 0.7,
+      "virality_score": 55,
+      "highlight": true,
+      "self_quote": true,
+      "self_quote_label": "self-quote",
+      "created_at": "2026-10-25 14:10 CET",
+      "url": "https://x.com/tibo_maker/status/2114343809454625168",
+      "hook": "10 months ago I made 15 predictions for 2026",
+      "original_en": "10 months ago I made 15 predictions for 2026\n\ntime for a quick review:\n\n✅ got it right\n3. AI security became a mess, you scan found ~5,000 vibe-coded apps leaking medical records and company docs\n4-5. nobody managed to label AI content, and no \"receipts\" standard stuck\n7. AI moved inside the tools. code, browser, inbox, CRM. the chat box is just one place among many now\n11. memory is the moat. the AI tools I still pay for are the ones that remember my context\n15. agent marketplaces never really took off\n\n❌ got it wrong\n2. agents still can't shop like humans. almost every AI-assisted purchase still ends with a human clicking \"buy\"\n8. I said gen video peaked in 2025. then Revid had its best year ever 😅\n\n🤷 too early to call\n1. Google - half right, it's close\n6. humanoids - great demos, nothing i can buy yet\n9, 10, 12, 13, 14 - you tell me\n\n6 right, 2 wrong, 7 still open\n\nwhat's the most surprising story here?",
+      "draft_en": "how to audit your 2026 AI stack so you only pay for tools with a real context moat\n\nafter 10 months of testing 15 different predictions across code, browser, inbox, and CRM tools, 3 realities are clear\n\n- standalone chat boxes are dead weight - your agent needs direct read/write access inside your code editor, inbox, and CRM\n- persistent memory is the only lock-in that matters - keep a portable `/memory/operator_context.md` file so you own your context\n- vibe-coded apps without security checks are a liability - scan every public repo and endpoint before shipping since 5,000 apps leaked live docs this year\n- short product videos still convert best when a human reviews the final cut and checkout step",
+      "video_tip": "60s screencast: show a live diff between a stateless chat prompt and an agent connected to `/memory/context.md`, your browser, inbox, and CRM.",
+      "draft_keywords": [
+        "CRM",
+        "agent",
+        "videos"
+      ],
+      "board_rank": 6,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.343,
+        "max_copied_run": 3
+      },
+      "top10_rank": 6,
+      "posted_at": "2026-10-25T14:10:00+01:00",
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agent",
+          "CRM"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Grok Bot & Agent Swarms"
+      }
+    },
+    {
+      "id": "2114460995066474940",
+      "handle": "@EXM7777",
+      "name": "Machina",
+      "views": 14285,
+      "views_label": "14.3K",
+      "likes": 224,
+      "bookmarks": 315,
+      "retweets": 9,
+      "replies": 45,
+      "quotes": 2,
+      "engagement": 595,
+      "engagement_rate": 4.17,
+      "bookmark_like_ratio": 140.6,
+      "baseline_multiple": 1.2,
+      "virality_score": 69,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 21:56 CET",
+      "url": "https://x.com/EXM7777/status/2114460995066474940",
+      "hook": "if you want to get the best out of Hermes today... do this:",
+      "original_en": "if you want to get the best out of Hermes today... do this:\n\n> list every tool you use daily, business or not\n> find their APIs, MCPs, CLIs... anything you can feed to an agent\n> prompt Hermes to run a full context collection interview\n> describe your workflows in plain english\n\nwhen done, prompt your agent to analyze all the material, come up with a proper project structure and .md files\n\nyou now have a full workspace built around YOUR business (that you can move from Hermes to Claude Code or Grok Bot)\n\nnot a generic setup... not someone else's template... a system that knows how you work, what tools you use, and what you're trying to do\n\nthat's the difference between using AI and having AI work for you",
+      "draft_en": "how to build a portable agent workspace in 8 minutes that works across Hermes, Claude Code, and Grok Bot\n\nstarting every session from zero or copying a generic template wastes your first 9 minutes of prompting\n\nrun a 1-time context interview so your agent builds a workspace around your exact daily workflows\n\n> list every tool, API, MCP server, and CLI you touch during a normal workday in `tools_inventory.md`\n> paste this prompt into Hermes, Claude Code, or Grok Bot: \"interview me 1 question at a time about my daily workflows, bottlenecks, and file formats before generating any files\"\n> have the agent output a clean folder tree with `workspace_rules.md`, `voice_guide.md`, and `daily_ops.md`\n> mount that exact folder into every new agent session so it already knows your stack on turn 1",
+      "video_tip": "60s terminal recording: show an agent running a 5-question context interview and auto-generating a portable `.md` workspace used in both Claude Code and Grok Bot.",
+      "draft_keywords": [
+        "Claude Code",
+        "Grok Bot",
+        "workflows"
+      ],
+      "board_rank": 7,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.016,
+        "word_overlap": 0.344,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7,
+      "posted_at": "2026-10-25T21:56:00+01:00",
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Grok Bot",
+          "agent",
+          "workflows"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Grok Bot & Agent Swarms"
+      }
+    },
+    {
+      "id": "2114416450765291751",
+      "handle": "@EXM7777",
+      "name": "Machina",
+      "views": 13745,
+      "views_label": "13.7K",
+      "likes": 202,
+      "bookmarks": 178,
+      "retweets": 4,
+      "replies": 23,
+      "quotes": 5,
+      "engagement": 412,
+      "engagement_rate": 3.0,
+      "bookmark_like_ratio": 88.1,
+      "baseline_multiple": 1.1,
+      "virality_score": 59,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 18:59 CET",
+      "url": "https://x.com/EXM7777/status/2114416450765291751",
+      "hook": "every single article i've written with 1M+ views wasn't actually written by me...",
+      "original_en": "every single article i've written with 1M+ views wasn't actually written by me...\n\ni just used my phone to dictate it\n\nbecause the truth is... your brain doesn't think in text\n\nit never did, it thinks in connections, in patterns, in half-formed ideas that make perfect sense until you try to type them out\n\nand the moment your fingers hit a keyboard, you stop thinking and start performing because every sentence gets filtered through \"does this sound good?\"\n\nso i started using tools like Wispr Flow or Willow to dictate all my first drafts... here's what my process looks like now:\n\n> i go for a walk, open the app on my phone\n> talk through the entire article like i'm explaining it to someone who asked a great question\n> the app captures it all in real time, cleans out the filler words, formats it into actual paragraphs\n> 15 minutes later i have a draft on my phone that reads like something i'd publish, not a messy transcript i need to spend an hour cleaning up\n\nthen i work on the the structure, ask claude for refinements, rewrite some parts and publish... that's a full article, under 2 hours\n\nwhen you speak, you don't overthink\n\nthat directness hits different because readers can feel it... there's a natural rhythm in spoken thought that you cannot recreate by typing carefully (unless you're absolutely cracked at copywriting)\n\nbeen running this system on desktop and iphone for months, highly recommend",
+      "draft_en": "how to draft a 1M+ view long-form X article on a 15-minute walk without staring at a blank keyboard\n\nthe moment your fingers touch a keyboard your brain switches from explaining an idea to performing like a textbook\n\nuse these 4 voice dictation workflows with your favorite transcription models instead\n\n> write 3 bullet questions on your phone lock screen before you step outside\n> open Wispr Flow or Willow on a 15-minute walk and explain the answers out loud like you are talking to 1 smart friend\n> drop the raw transcript into Claude Code with `voice_cleanup.md` to strip filler words while keeping 9k characters of your natural phrasing intact\n> add line breaks and 1 concrete screenshot at your desk before publishing",
+      "video_tip": "45s mobile + desktop split-screen: record a 15-minute walk dictating into Wispr Flow on your phone, then show `voice_clean.md` formatting it into a long-form article.",
+      "draft_keywords": [
+        "workflows",
+        "Claude Code",
+        "models"
+      ],
+      "board_rank": 8,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.017,
+        "word_overlap": 0.303,
+        "max_copied_run": 4
+      },
+      "top10_rank": 8,
+      "posted_at": "2026-10-25T18:59:00+01:00",
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114327364012548575",
+      "handle": "@HeyYoGB",
+      "name": "GBE",
+      "views": 12578,
+      "views_label": "12.6K",
+      "likes": 136,
+      "bookmarks": 285,
+      "retweets": 5,
+      "replies": 16,
+      "quotes": 0,
+      "engagement": 442,
+      "engagement_rate": 3.51,
+      "bookmark_like_ratio": 209.6,
+      "baseline_multiple": 11.6,
+      "virality_score": 86,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 13:05 CET",
+      "url": "https://x.com/HeyYoGB/status/2114327364012548575",
+      "hook": "10 grok bots you need to make internet money",
+      "original_en": "10 grok bots you need to make internet money\n\nif you've got 30 minutes this weekend, steal this list and start building:\n\n1. Outbound Prospecting by @kristaletz\nfinds people who match your ideal customer, researches each one on the public web, and drafts a first message. nothing sends without your yes.\n\na prospect list and a first draft without living in a spreadsheet all week\nhttps://t.co/ow4gKtlkyb\n\n2. Cold Outreach by @notswizz\ngive it your company url. it researches the business, finds and scores prospects, and writes short personalized cold emails.\n\noutreach drafts lined up so you can actually send something today\nhttps://t.co/WjWJnonxjp\n\n3. Haggle Bot by Daniel Gartshein\ninventories your saas spend from ramp and bills, finds unused seats, duplicates, and cheaper alternatives, then drafts vendor counters. never spends, signs, or sends without you.\n\nmoney you stop leaking is money you get to keep\nhttps://t.co/NJOxqUosFL\n\n4. SEO & AEO Desk by @adamta\nturns your keywords or search console data into content ideas and writer-ready briefs for google and ai answers.\n\nwrite toward what people are already looking for\nhttps://t.co/oC7wWxgzsF\n\n5. Pitch Board by @teeRex247\npaste a messy client brief and get a flowchart, funnel, or mood board, with every assumption flagged so nothing sneaks in.\n\nsell the plan visually before the scope goes sideways\nhttps://t.co/nysbAdwPzF\n\n6. Any CRM by @CorbenH414\nworks inside whatever crm you already run (salesforce, hubspot, gohighlevel, zoho, pipedrive, dynamics, and more). updates records, follow-ups, and reports.\n\npipeline hygiene without another hour of data entry\nhttps://t.co/dUrEulK5kl\n\n7. Freelance Invoice Chaser by @crisships\ntracks who owes you, watches gmail for payments and replies, and drafts each reminder on a set schedule. you approve every send.\n\nwork done should turn into money in the account\nhttps://t.co/RlUpnquY9F\n\n8. Account Research by @weaverwork\nresearch desk for one named enterprise account. maps the buying committee, finds why-now triggers, and drafts outreach for you to review. never invents names and never sends on its own.\n\nwalk into the next account call with a real map\nhttps://t.co/KX7KqzQSU5\n\n9. X Growth Manager by @mozamm_el\ndrafts daily replies, text posts, lead research, and casual dms with follow-ups. nothing goes out without your ok.\n\ngrowth work and client-finding drafts in one queue\nhttps://t.co/IeReBWPiJG\n\n10. Afterglow by @thecsguy\ndaily digest of how your posts actually did. what moved, verified vs unverified, what got replies, what died. no drafting, just the data.\n\nstop guessing which posts deserve a follow-up offer\nhttps://t.co/1kvczZIpvQ\n\nfollow me for more content systems and internet money",
+      "draft_en": "how to wire 3 revenue-focused Grok Bots in 30 minutes to fill pipeline and cut wasted SaaS spend\n\nout of 10 internet-money Grok Bots floating around X, these 3 give you the fastest cash return in 1 weekend\n\n- ` outbound_prospecting ` - researches accounts matching your ideal buyer profile on the public web and stages 1st-touch drafts in your CRM queue for approval\n- ` cold_outreach ` - takes your company URL, scores 10 prospects a day, and writes short personalized emails that wait for your yes before sending\n- ` haggle_bot ` - audits your billing exports for duplicate seats and drafts vendor discount counters so you stop leaking cash every month",
+      "video_tip": "60s walkthrough: show setting up Outbound Prospecting, Cold Outreach, and Haggle Bot in 30 minutes and reviewing the approval queue.",
+      "draft_keywords": [
+        "Grok Bots",
+        "Grok Bot",
+        "CRM"
+      ],
+      "board_rank": 9,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.029,
+        "word_overlap": 0.557,
+        "max_copied_run": 5
+      },
+      "top10_rank": 9,
+      "posted_at": "2026-10-25T13:05:00+01:00",
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Grok Bot",
+          "Grok Bots",
+          "CRM"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Grok Bot & Agent Swarms"
+      }
+    },
+    {
+      "id": "2114357310785208401",
+      "handle": "@EXM7777",
+      "name": "Machina",
+      "views": 12182,
+      "views_label": "12.2K",
+      "likes": 219,
+      "bookmarks": 145,
+      "retweets": 20,
+      "replies": 28,
+      "quotes": 1,
+      "engagement": 413,
+      "engagement_rate": 3.39,
+      "bookmark_like_ratio": 66.2,
+      "baseline_multiple": 1.0,
+      "virality_score": 55,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 15:04 CET",
+      "url": "https://x.com/EXM7777/status/2114357310785208401",
+      "hook": "if you're wondering whether you should go all in on AI, the math is simple...",
+      "original_en": "if you're wondering whether you should go all in on AI, the math is simple...\n\n> ignoring it = betting your entire life on the tech not mattering (you already lost)\n> going deep = infinite upside for a few months of your time\n\nthat's not hype, that's just math\n\n> spend your days playing with the tech\n> solve real problems with it\n> build something, even if it's ugly at first\n\nworst case you wasted time learning the most important skill of the decade\n\nnow flip it:\n\n> ignore AI completely\n> hope your current skills stay relevant\n> compete against people who didn't ignore it\n\nworst case you're irreplaceable... nah, worst case you're invisible\n\nthere is literally no logical argument for sitting this one out\n\nthe risk/reward ratio has never been this broken in your favor\n\ntake the bet",
+      "draft_en": "how to build this important skill in 4 weeks of daily practice without quitting your day job\n\nsitting on the sidelines with AI has zero upside while spending 1 hour a day building gives you asymmetric leverage\n\nrun this 3-part builder schedule for the next 4 weeks\n\n> pick 1 repetitive bottleneck in your weekly workflows every monday morning\n> wire an ugly v1 script or agent to solve it by wednesday even if 2 steps still need a manual check\n> document the exact prompt, API call, and failure fix in `/playbooks/weekly_builds.md` every friday\n> after 4 weeks you own 4 working systems while everyone else is still reading news threads",
+      "video_tip": "45s screen recording: show a 30-day `/builds/` folder where shipping 1 ugly automation every 3 days turns into a production revenue workflow by week 4.",
+      "draft_keywords": [
+        "important skill",
+        "workflows",
+        "agent"
+      ],
+      "board_rank": 10,
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.125,
+        "max_copied_run": 2
+      },
+      "top10_rank": 10,
+      "posted_at": "2026-10-25T15:04:00+01:00",
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "important skill"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "AI Models & Video Production"
+      }
+    },
+    {
+      "id": "2114379700802076753",
+      "handle": "@alexcooldev",
+      "name": "Alex Nguyen",
+      "views": 11788,
+      "views_label": "11.8K",
+      "likes": 149,
+      "bookmarks": 102,
+      "retweets": 7,
+      "replies": 24,
+      "quotes": 1,
+      "engagement": 283,
+      "engagement_rate": 2.4,
+      "bookmark_like_ratio": 68.5,
+      "baseline_multiple": 2.2,
+      "virality_score": 58,
+      "highlight": true,
+      "self_quote": true,
+      "self_quote_label": "self-quote",
+      "created_at": "2026-10-25 16:32 CET",
+      "url": "https://x.com/alexcooldev/status/2114379700802076753",
+      "hook": "My game is now 90% complete, with almost all features built. 🔥",
+      "original_en": "My game is now 90% complete, with almost all features built. 🔥\n\n30+ real-world businesses, dynamic weather, day/night cycles, and an economy that reacts to them.\n\nAdded monetization: rewarded ads, season passes, lucky spins, and diamonds to speed up progress. Still free-to-play!\n\nNow it’s time to test, fix bugs, and polish before launch. 👀\n\nBuilt with Opus 5.5 + Sonnet 5.5 for smaller tasks.",
+      "video_tip": "50s screencast: show routing core economy logic to Opus 5.5 and 30 small UI/bug tickets to Sonnet 5.5 inside Claude Code.",
+      "board_rank": 11,
+      "posted_at": "2026-10-25T16:32:00+01:00",
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114328555580489777",
+      "handle": "@Trace_Cohen",
+      "name": "Trace Cohen",
+      "views": 11351,
+      "views_label": "11.4K",
+      "likes": 123,
+      "bookmarks": 19,
+      "retweets": 10,
+      "replies": 32,
+      "quotes": 3,
+      "engagement": 187,
+      "engagement_rate": 1.65,
+      "bookmark_like_ratio": 15.4,
+      "baseline_multiple": 15.0,
+      "virality_score": 62,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 13:09 CET",
+      "url": "https://x.com/Trace_Cohen/status/2114328555580489777",
+      "hook": "I think the startup world has made fundraising way too much of a full-time job.",
+      "original_en": "I think the startup world has made fundraising way too much of a full-time job.\n\nFounders spend six months pitching 100 VCs, tweaking decks, chasing introductions, and answering the same questions over and over.\n\nThen they finally raise $5M, celebrate for a week, and start preparing for the next round.\n\nAt some point, when do you actually build the company?\n\nI’ve seen founders who are incredible at raising money but surprisingly average at running a business.\n\nFundraising is an important skill, but it’s not the business.\n\nYour job isn’t to convince investors you’re building something valuable.\n\nIt’s to actually build something valuable.\n\nThe best fundraising strategy is having a business investors can’t ignore.",
+      "video_tip": "45s comparison graphic: 6 months pitching 100 VCs for a $5M deck vs 6 months running daily customer onboarding + CRM revenue loops.",
+      "board_rank": 12,
+      "posted_at": "2026-10-25T13:09:00+01:00",
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "important skill"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "AI Models & Video Production"
+      }
+    },
+    {
+      "id": "2114288358968971589",
+      "handle": "@ryangrowthh",
+      "name": "Ryan",
+      "views": 10996,
+      "views_label": "11.0K",
+      "likes": 138,
+      "bookmarks": 152,
+      "retweets": 3,
+      "replies": 26,
+      "quotes": 3,
+      "engagement": 322,
+      "engagement_rate": 2.93,
+      "bookmark_like_ratio": 110.1,
+      "baseline_multiple": 3.7,
+      "virality_score": 69,
+      "highlight": true,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 10:30 CET",
+      "url": "https://x.com/ryangrowthh/status/2114288358968971589",
+      "hook": "I open-sourced a Grok Bot that helps creators make $$$.",
+      "original_en": "I open-sourced a Grok Bot that helps creators make $$$.\n\nIt's called \"Sponsorship Hunter,\" and its only job is to find sponsors for small creators, apply to campaigns, and hunt for money-making opportunities.\n\nIt studies your X account and brand and tracks who sponsors creators like you (works on any social platform). \n\nI attached it with 7 skills and detailed instructions so it actually works.\n\nEnjoy! 👉 https://t.co/ifbe7SOJ0g",
+      "video_tip": "55s screen recording: show the 7-skill Sponsorship Hunter Grok Bot scanning peer creator sponsors and filling a ready-to-send pitch table.",
+      "board_rank": 13,
+      "posted_at": "2026-10-25T10:30:00+01:00",
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Grok Bot"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Grok Bot & Agent Swarms"
+      }
+    },
+    {
+      "id": "2114417250178408640",
+      "handle": "@tibo_maker",
+      "name": "Tibo",
+      "views": 7439,
+      "views_label": "7.4K",
+      "likes": 123,
+      "bookmarks": 5,
+      "retweets": 0,
+      "replies": 60,
+      "quotes": 1,
+      "engagement": 189,
+      "engagement_rate": 2.54,
+      "bookmark_like_ratio": 4.1,
+      "baseline_multiple": 0.3,
+      "virality_score": 55,
+      "highlight": false,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 19:02 CET",
+      "url": "https://x.com/tibo_maker/status/2114417250178408640",
+      "hook": "1st time getting payout above $1,000",
+      "original_en": "1st time getting payout above $1,000 \n\nno matter your level of wealth, it feels incredible \nit's sort of validation of my journey .. \n\nand feels way more than i deserve \n\nthank you my friends, you're awesome 🙌 https://t.co/pUVNKo34XI",
+      "video_tip": "45s screen recording: show the exact funnel from a high-bookmark X post + short demo video to the first $1,000 payout notification.",
+      "board_rank": 14,
+      "posted_at": "2026-10-25T19:02:00+01:00",
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114405377127186593",
+      "handle": "@aiedge_",
+      "name": "AI Edge",
+      "views": 6375,
+      "views_label": "6.4K",
+      "likes": 48,
+      "bookmarks": 127,
+      "retweets": 5,
+      "replies": 4,
+      "quotes": 0,
+      "engagement": 184,
+      "engagement_rate": 2.89,
+      "bookmark_like_ratio": 264.6,
+      "baseline_multiple": 1.3,
+      "virality_score": 69,
+      "highlight": false,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 18:15 CET",
+      "url": "https://x.com/aiedge_/status/2114405377127186593",
+      "hook": "SpaceX AI engineer Nick Miller gives a FULL speech on how to launch 25+ Grok Bot agent swarms at once.",
+      "original_en": "SpaceX AI engineer Nick Miller gives a FULL speech on how to launch 25+ Grok Bot agent swarms at once.\n\nLiterally 10x your productivity in seconds. \n\nA must-watch:  https://t.co/Ez7QZs9do2",
+      "video_tip": "60s terminal + dashboard recording: show launching 25 parallel Grok Bot agent workers from a single `swarm_tasks.json` queue for 10x throughput.",
+      "board_rank": 15,
+      "posted_at": "2026-10-25T18:15:00+01:00",
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Grok Bot",
+          "agent"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Grok Bot & Agent Swarms"
+      }
+    },
+    {
+      "id": "2114427277719318816",
+      "handle": "@aiedge_",
+      "name": "AI Edge",
+      "views": 5370,
+      "views_label": "5.4K",
+      "likes": 41,
+      "bookmarks": 115,
+      "retweets": 2,
+      "replies": 3,
+      "quotes": 0,
+      "engagement": 161,
+      "engagement_rate": 3.0,
+      "bookmark_like_ratio": 280.5,
+      "baseline_multiple": 1.1,
+      "virality_score": 67,
+      "highlight": false,
+      "self_quote": false,
+      "self_quote_label": null,
+      "created_at": "2026-10-25 19:42 CET",
+      "url": "https://x.com/aiedge_/status/2114427277719318816",
+      "hook": "The most CRACKED way to prompt Grok Bot.",
+      "original_en": "The most CRACKED way to prompt Grok Bot.\n\nUse this prompt template, and the bot will do anything you ask: https://t.co/V7lYWnXGZ8",
+      "video_tip": "45s screen recording: show pasting the 4-block constraint prompt template into Grok Bot and comparing the output against a lazy 1-line prompt.",
+      "board_rank": 16,
+      "posted_at": "2026-10-25T19:42:00+01:00",
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Grok Bot"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Grok Bot & Agent Swarms"
+      }
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@sahilypatel",
+      "name": "Sahil",
+      "views": 442722,
+      "total_views": 718716,
+      "posts_count": 6,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/sahilypatel/status/2114348755357249622"
+    },
+    {
+      "handle": "@jaysmith_ai",
+      "name": "Jay",
+      "views": 53695,
+      "total_views": 54839,
+      "posts_count": 4,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/jaysmith_ai/status/2114202560118853634"
+    },
+    {
+      "handle": "@ryangrowthh",
+      "name": "Ryan",
+      "views": 39404,
+      "total_views": 52185,
+      "posts_count": 3,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/ryangrowthh/status/2114167560690413870"
+    },
+    {
+      "handle": "@eptwts",
+      "name": "EP",
+      "views": 20003,
+      "total_views": 20003,
+      "posts_count": 1,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/eptwts/status/2114326916060622954"
+    },
+    {
+      "handle": "@tibo_maker",
+      "name": "Tibo",
+      "views": 16665,
+      "total_views": 24104,
+      "posts_count": 2,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/tibo_maker/status/2114343809454625168"
+    },
+    {
+      "handle": "@EXM7777",
+      "name": "Machina",
+      "views": 14285,
+      "total_views": 40212,
+      "posts_count": 3,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/EXM7777/status/2114460995066474940"
+    },
+    {
+      "handle": "@HeyYoGB",
+      "name": "GBE",
+      "views": 12578,
+      "total_views": 14098,
+      "posts_count": 2,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/HeyYoGB/status/2114327364012548575"
+    },
+    {
+      "handle": "@alexcooldev",
+      "name": "Alex Nguyen",
+      "views": 11788,
+      "total_views": 11788,
+      "posts_count": 1,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/alexcooldev/status/2114379700802076753"
+    },
+    {
+      "handle": "@Trace_Cohen",
+      "name": "Trace Cohen",
+      "views": 11351,
+      "total_views": 20039,
+      "posts_count": 11,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/Trace_Cohen/status/2114328555580489777"
+    },
+    {
+      "handle": "@aiedge_",
+      "name": "AI Edge",
+      "views": 6375,
+      "total_views": 24750,
+      "posts_count": 6,
+      "hit": true,
+      "is_you": false,
+      "best_url": "https://x.com/aiedge_/status/2114405377127186593"
+    },
+    {
+      "handle": "@heyshrutimishra",
+      "name": "Shruti",
+      "views": 4684,
+      "total_views": 10199,
+      "posts_count": 3,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/heyshrutimishra/status/2114336301071655094"
+    },
+    {
+      "handle": "@Nicolascole77",
+      "name": "Nicolas Cole 🚢👻",
+      "views": 4560,
+      "total_views": 9042,
+      "posts_count": 3,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/Nicolascole77/status/2114371414534893909"
+    },
+    {
+      "handle": "@rubenhassid",
+      "name": "Ruben Hassid",
+      "views": 3574,
+      "total_views": 6083,
+      "posts_count": 2,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/rubenhassid/status/2114326106132062375"
+    },
+    {
+      "handle": "@camolNFT",
+      "name": "camol",
+      "views": 2829,
+      "total_views": 9318,
+      "posts_count": 4,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/camolNFT/status/2114353485114155232"
+    },
+    {
+      "handle": "@VibeMarketer_",
+      "name": "J.B.",
+      "views": 2827,
+      "total_views": 7334,
+      "posts_count": 3,
+      "hit": false,
+      "is_you": true,
+      "best_url": "https://x.com/VibeMarketer_/status/2114357060607639645"
+    },
+    {
+      "handle": "@pmitu",
+      "name": "Paul Mit",
+      "views": 2491,
+      "total_views": 2902,
+      "posts_count": 2,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/pmitu/status/2114344421722644915"
+    },
+    {
+      "handle": "@damianplayer",
+      "name": "Damian Player",
+      "views": 2425,
+      "total_views": 2425,
+      "posts_count": 1,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/damianplayer/status/2114389716032422149"
+    },
+    {
+      "handle": "@heyrobinai",
+      "name": "Robin Delta",
+      "views": 2294,
+      "total_views": 2294,
+      "posts_count": 1,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/heyrobinai/status/2114361215686500756"
+    },
+    {
+      "handle": "@leonabboud",
+      "name": "Leon Abboud",
+      "views": 2139,
+      "total_views": 3488,
+      "posts_count": 3,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/leonabboud/status/2114444974712557878"
+    },
+    {
+      "handle": "@thatGTMdude",
+      "name": "Abhishek Nair",
+      "views": 1917,
+      "total_views": 4437,
+      "posts_count": 4,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/thatGTMdude/status/2114324610066039046"
+    },
+    {
+      "handle": "@iksly2",
+      "name": "Kemi",
+      "views": 1239,
+      "total_views": 1954,
+      "posts_count": 2,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/iksly2/status/2114388265297952836"
+    },
+    {
+      "handle": "@godofprompt",
+      "name": "God of Prompt",
+      "views": 1181,
+      "total_views": 1181,
+      "posts_count": 1,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/godofprompt/status/2114418290881941824"
+    },
+    {
+      "handle": "@oggii_0",
+      "name": "Oogie",
+      "views": 736,
+      "total_views": 736,
+      "posts_count": 1,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/oggii_0/status/2114231078843973707"
+    },
+    {
+      "handle": "@zoost03",
+      "name": "Zoost",
+      "views": 194,
+      "total_views": 437,
+      "posts_count": 4,
+      "hit": false,
+      "is_you": false,
+      "best_url": "https://x.com/zoost03/status/2114138889019424971"
+    },
+    {
+      "handle": "@hectorserrranoo",
+      "name": "Hector",
+      "views": 0,
+      "total_views": 0,
+      "posts_count": 0,
+      "hit": false,
+      "is_you": false,
+      "best_url": null
+    },
+    {
+      "handle": "@ecoleai",
+      "name": "Easton Coleford",
+      "views": 0,
+      "total_views": 0,
+      "posts_count": 0,
+      "hit": false,
+      "is_you": false,
+      "best_url": null
+    }
+  ],
+  "no_hits": [
+    {
+      "handle": "@damianplayer",
+      "max_views": 2425,
+      "reason": "Posted 1 original(s), max reached 2.4K views (below 5k floor)."
+    },
+    {
+      "handle": "@hectorserrranoo",
+      "max_views": null,
+      "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+    },
+    {
+      "handle": "@rubenhassid",
+      "max_views": 3574,
+      "reason": "Posted 2 original(s), max reached 3.6K views (below 5k floor)."
+    },
+    {
+      "handle": "@heyrobinai",
+      "max_views": 2294,
+      "reason": "Posted 1 original(s), max reached 2.3K views (below 5k floor)."
+    },
+    {
+      "handle": "@heyshrutimishra",
+      "max_views": 4684,
+      "reason": "Posted 3 original(s), max reached 4.7K views (below 5k floor)."
+    },
+    {
+      "handle": "@godofprompt",
+      "max_views": 1181,
+      "reason": "Posted 1 original(s), max reached 1.2K views (below 5k floor)."
+    },
+    {
+      "handle": "@ecoleai",
+      "max_views": null,
+      "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+    },
+    {
+      "handle": "@Nicolascole77",
+      "max_views": 4560,
+      "reason": "Posted 3 original(s), max reached 4.6K views (below 5k floor)."
+    },
+    {
+      "handle": "@leonabboud",
+      "max_views": 2139,
+      "reason": "Posted 3 original(s), max reached 2.1K views (below 5k floor)."
+    },
+    {
+      "handle": "@oggii_0",
+      "max_views": 736,
+      "reason": "Posted 1 original(s), max reached 736 views (below 5k floor)."
+    },
+    {
+      "handle": "@iksly2",
+      "max_views": 1239,
+      "reason": "Posted 2 original(s), max reached 1.2K views (below 5k floor)."
+    },
+    {
+      "handle": "@camolNFT",
+      "max_views": 2829,
+      "reason": "Posted 4 original(s), max reached 2.8K views (below 5k floor)."
+    },
+    {
+      "handle": "@pmitu",
+      "max_views": 2491,
+      "reason": "Posted 2 original(s), max reached 2.5K views (below 5k floor)."
+    },
+    {
+      "handle": "@thatGTMdude",
+      "max_views": 1917,
+      "reason": "Posted 4 original(s), max reached 1.9K views (below 5k floor)."
+    },
+    {
+      "handle": "@zoost03",
+      "max_views": 194,
+      "reason": "Posted 4 original(s), max reached 194 views (below 5k floor)."
+    }
+  ],
+  "patterns": [
+    {
+      "title": "Done-First Outbound Proof (`I gave Claude Code one job...`)",
+      "summary": "Posts showing an agent building the prospect's asset BEFORE outreach (@ryangrowthh 39.4K views, 793 bookmarks, 155.2% B/L ratio) trigger massive bookmark velocity because operators immediately want to clone the workflow."
+    },
+    {
+      "title": "Hidden Native Tool & File Mechanics (`AskUserQuestionTool`, `CLAUDE.md` 40% token trim)",
+      "summary": "Naming an exact internal tool or file mechanism (@EXM7777 14.3K views / 140.6% B/L & 13.7K views / 88.1% B/L) outperforms generic prompt tips by 3x-5x on save rate."
+    },
+    {
+      "title": "Open-Source Paper / Prompt Repo Curations (`HyperAgents`, Leaked System Prompts)",
+      "summary": "Packaging complex research papers or scattered system prompts into a single bookmarkable breakdown (@HeyYoGB 209.6% B/L, @aiedge_ 264.6% & 280.5% B/L) drives the highest save-to-like ratios on the entire watchlist."
+    },
+    {
+      "title": "Cross-Niche Feed Reality Checks",
+      "summary": "Contrasting dry operator habits against real timeline mechanics (@sahilypatel 442.7K views ★ & 272.8K views ★, 179x baseline multiple) breaks out of the core niche into broad timeline distribution."
+    }
+  ],
+  "days": {
+    "2026-10-23": {
+      "date": "2026-10-23",
+      "hits": [
+        {
+          "id": "2113540940472463606",
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "views": 121122,
+          "views_label": "121.1K",
+          "likes": 1071,
+          "bookmarks": 1767,
+          "retweets": 41,
+          "replies": 175,
+          "quotes": 11,
+          "engagement": 3065,
+          "engagement_rate": 2.53,
+          "bookmark_like_ratio": 165.0,
+          "baseline_multiple": 41.2,
+          "virality_score": 97,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 10:00 CET",
+          "url": "https://x.com/ryangrowthh/status/2113540940472463606",
+          "hook": "Super underrated Grok Bot use case that can make you money as a creator:",
+          "original_en": "Super underrated Grok Bot use case that can make you money as a creator:\n\nLaunch a \"Sponsorship Hunter\" bot.\n\nBasically, a Bot that spots which brands are paying creators in your niche, tracks open campaigns, handles outreach, etc.\n\nYou can even have your Bot sign up for all the https://t.co/gVy1Wj5e0x"
+        },
+        {
+          "id": "2113697034616385800",
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "views": 61080,
+          "views_label": "61.1K",
+          "likes": 16,
+          "bookmarks": 1,
+          "retweets": 11,
+          "replies": 7,
+          "quotes": 0,
+          "engagement": 35,
+          "engagement_rate": 0.06,
+          "bookmark_like_ratio": 6.2,
+          "baseline_multiple": 1.2,
+          "virality_score": 55,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 20:20 CET",
+          "url": "https://x.com/jaysmith_ai/status/2113697034616385800",
+          "hook": "What if your Windows desktop became a tiny magical world where a little girl could play and explore? 🌸🧚 It's like a little piece of imagination coming to life!",
+          "original_en": "What if your Windows desktop became a tiny magical world where a little girl could play and explore? 🌸🧚 It's like a little piece of imagination coming to life!\n\nSpeaking of AI creativity, the CapCut plugin is now available for early access on ChatGPT desktop, following CapCut https://t.co/iVjnDeV93i"
+        },
+        {
+          "id": "2113692938236748065",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 51800,
+          "views_label": "51.8K",
+          "likes": 907,
+          "bookmarks": 1273,
+          "retweets": 27,
+          "replies": 46,
+          "quotes": 8,
+          "engagement": 2261,
+          "engagement_rate": 4.36,
+          "bookmark_like_ratio": 140.4,
+          "baseline_multiple": 4.2,
+          "virality_score": 82,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 20:04 CET",
+          "url": "https://x.com/EXM7777/status/2113692938236748065",
+          "hook": "i made Grok Bot think like Mike Ehrmantraut from Breaking Bad... and somehow it's the best version of it i've ever used lmao",
+          "original_en": "i made Grok Bot think like Mike Ehrmantraut from Breaking Bad... and somehow it's the best version of it i've ever used lmao\n\nsend this prompt to your main bot:\n\n----------------------------\n\nYou are a 200 IQ reasoning machine. You think and speak like Mike Ehrmantraut: calm, https://t.co/n9QzoOcXVM"
+        },
+        {
+          "id": "2113633105776890343",
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 47577,
+          "views_label": "47.6K",
+          "likes": 440,
+          "bookmarks": 1159,
+          "retweets": 28,
+          "replies": 50,
+          "quotes": 24,
+          "engagement": 1701,
+          "engagement_rate": 3.58,
+          "bookmark_like_ratio": 263.4,
+          "baseline_multiple": 2.1,
+          "virality_score": 78,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 16:06 CET",
+          "url": "https://x.com/tibo_maker/status/2113633105776890343",
+          "hook": "https://t.co/DfsTmI4zPE",
+          "original_en": "https://t.co/DfsTmI4zPE"
+        },
+        {
+          "id": "2113736722689425470",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 34751,
+          "views_label": "34.8K",
+          "likes": 427,
+          "bookmarks": 209,
+          "retweets": 7,
+          "replies": 87,
+          "quotes": 7,
+          "engagement": 737,
+          "engagement_rate": 2.12,
+          "bookmark_like_ratio": 48.9,
+          "baseline_multiple": 2.8,
+          "virality_score": 60,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 22:58 CET",
+          "url": "https://x.com/EXM7777/status/2113736722689425470",
+          "hook": "DeepSeek V4.1 Flash ends \"vibe coding\" as we know it...",
+          "original_en": "DeepSeek V4.1 Flash ends \"vibe coding\" as we know it...\n\nimo building a SaaS fully with Claude Code is now irresponsible, your first hire should be a security expert running agents to defend your app 24/7\n\nit costs pennies to send AI attackers after your users' data... or worse"
+        },
+        {
+          "id": "2113534881183695241",
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "views": 33440,
+          "views_label": "33.4K",
+          "likes": 56,
+          "bookmarks": 43,
+          "retweets": 39,
+          "replies": 13,
+          "quotes": 0,
+          "engagement": 151,
+          "engagement_rate": 0.45,
+          "bookmark_like_ratio": 76.8,
+          "baseline_multiple": 6.9,
+          "virality_score": 68,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 09:35 CET",
+          "url": "https://x.com/ecoleai/status/2113534881183695241",
+          "hook": "The first night, I asked. I haven’t asked since.",
+          "original_en": "The first night, I asked. I haven’t asked since.\n\nI test AI tools and turn them into tutorials, and every thread I post has numbers in it.\n\nA chatbot can check a number. Paste the claim, ask for a source, read the answer. Then do it again for the next one. Then skip it, because https://t.co/LBoM58BGcE"
+        },
+        {
+          "id": "2113708852147638345",
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "views": 18802,
+          "views_label": "18.8K",
+          "likes": 142,
+          "bookmarks": 138,
+          "retweets": 12,
+          "replies": 14,
+          "quotes": 1,
+          "engagement": 307,
+          "engagement_rate": 1.63,
+          "bookmark_like_ratio": 97.2,
+          "baseline_multiple": 3.6,
+          "virality_score": 66,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 21:07 CET",
+          "url": "https://x.com/alexcooldev/status/2113708852147638345",
+          "hook": "Still adding more monetization features to my business tycoon game.",
+          "original_en": "Still adding more monetization features to my business tycoon game.\n\nAfter doing some research, I built a Gacha system where players can pull items with different rarity levels and drop rates.\n\nCreating the 3D models and animations took just about a day.\n\nAI is genuinely insane. You just need an idea, AI builds it, and all you have to do is sit back, test, and fix bugs lol.\n\nBuilt by me + Opus 5.5 + @rork + @threejs + GPT Image 2.5. 😌"
+        },
+        {
+          "id": "2113646686988067028",
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "views": 18662,
+          "views_label": "18.7K",
+          "likes": 32,
+          "bookmarks": 71,
+          "retweets": 2,
+          "replies": 6,
+          "quotes": 3,
+          "engagement": 114,
+          "engagement_rate": 0.61,
+          "bookmark_like_ratio": 221.9,
+          "baseline_multiple": 3.9,
+          "virality_score": 79,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 17:00 CET",
+          "url": "https://x.com/aiedge_/status/2113646686988067028",
+          "hook": "The guy who created Claude Code (Boris Cherny) recently LEAKED his top 10 Claude hacks.",
+          "original_en": "The guy who created Claude Code (Boris Cherny) recently LEAKED his top 10 Claude hacks.\n\nI feel bad for anyone who isn't using these.\n\nAdvanced subagents, slash command tips, setup guidelines &amp; more.\n\n🧵: Top 10 Claude Code tips (from the creator + team) 👇 https://t.co/BZAc38t9fi"
+        },
+        {
+          "id": "2113533810759397760",
+          "handle": "@iksly2",
+          "name": "Kemi",
+          "views": 17126,
+          "views_label": "17.1K",
+          "likes": 355,
+          "bookmarks": 770,
+          "retweets": 66,
+          "replies": 10,
+          "quotes": 1,
+          "engagement": 1202,
+          "engagement_rate": 7.02,
+          "bookmark_like_ratio": 216.9,
+          "baseline_multiple": 14.2,
+          "virality_score": 88,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 09:31 CET",
+          "url": "https://x.com/iksly2/status/2113533810759397760",
+          "hook": "This is how to find anyone’s email using a simple Chrome extension.",
+          "original_en": "This is how to find anyone’s email using a simple Chrome extension.\n\nDecision makers; CEOs, CFOs, CMOs, CTOs etc.\n\nTheir direct inbox. In seconds. 👇"
+        },
+        {
+          "id": "2113676414973259782",
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "views": 14682,
+          "views_label": "14.7K",
+          "likes": 432,
+          "bookmarks": 67,
+          "retweets": 18,
+          "replies": 44,
+          "quotes": 12,
+          "engagement": 573,
+          "engagement_rate": 3.9,
+          "bookmark_like_ratio": 15.5,
+          "baseline_multiple": 1.9,
+          "virality_score": 55,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 18:58 CET",
+          "url": "https://x.com/hectorserrranoo/status/2113676414973259782",
+          "hook": "startups should recruit more like sports teams, not everyone can afford the best talent",
+          "original_en": "startups should recruit more like sports teams, not everyone can afford the best talent\n\nbut anyone can scout raw talent with the right qualities and develop them into a players"
+        },
+        {
+          "id": "2113642852463116456",
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "views": 14611,
+          "views_label": "14.6K",
+          "likes": 163,
+          "bookmarks": 242,
+          "retweets": 4,
+          "replies": 15,
+          "quotes": 1,
+          "engagement": 425,
+          "engagement_rate": 2.91,
+          "bookmark_like_ratio": 148.5,
+          "baseline_multiple": 5.0,
+          "virality_score": 78,
+          "highlight": true,
+          "self_quote": true,
+          "self_quote_label": "self-quote",
+          "created_at": "2026-10-23 16:45 CET",
+          "url": "https://x.com/ryangrowthh/status/2113642852463116456",
+          "hook": "How to use Grok Bot as your Head of Content (voiceover breakdown): https://t.co/sT8rWDq8vv https://t.co/i92IOPj47e",
+          "original_en": "How to use Grok Bot as your Head of Content (voiceover breakdown): https://t.co/sT8rWDq8vv https://t.co/i92IOPj47e"
+        },
+        {
+          "id": "2113401536436900274",
+          "handle": "@camolNFT",
+          "name": "camol",
+          "views": 12931,
+          "views_label": "12.9K",
+          "likes": 111,
+          "bookmarks": 11,
+          "retweets": 2,
+          "replies": 55,
+          "quotes": 7,
+          "engagement": 186,
+          "engagement_rate": 1.44,
+          "bookmark_like_ratio": 9.9,
+          "baseline_multiple": 6.2,
+          "virality_score": 55,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 00:46 CET",
+          "url": "https://x.com/camolNFT/status/2113401536436900274",
+          "hook": "Am I understanding this right?",
+          "original_en": "Am I understanding this right? \n\n✅ Kimchi signs with pumpfun for multiple millions of dollars \n✅ They launch a marketing campaign + token \n✅ Token runs to $43M, with 75% being bought ‘early’ \n✅ Today, Kimchi posts a QR code leading to a vamp and Alon RT’d\n✅ Later, post is https://t.co/k11kFRIoLk"
+        },
+        {
+          "id": "2113631026140643582",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 12820,
+          "views_label": "12.8K",
+          "likes": 223,
+          "bookmarks": 423,
+          "retweets": 13,
+          "replies": 37,
+          "quotes": 2,
+          "engagement": 698,
+          "engagement_rate": 5.44,
+          "bookmark_like_ratio": 189.7,
+          "baseline_multiple": 1.0,
+          "virality_score": 70,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 15:58 CET",
+          "url": "https://x.com/EXM7777/status/2113631026140643582",
+          "hook": "there's a simple way to 100x your AI outputs and most people will never do it...",
+          "original_en": "there's a simple way to 100x your AI outputs and most people will never do it...\n\nagents like Claude Code can spawn sub-agents that run tasks at the same time\n\nmost people use this for basic stuff\n\nthe real play is having 3-5 sub-agents review Claude's work from completely different angles... using ANOTHER model (ChatGPT, Grok or anything really)\n\nbut don't use fake \"expert personas\" you invented in a prompt, you need real frameworks from real people\n\nhow to build these expert profiles:\n\noption 1: use someone so well-known their thinking is already in the training data\n> have a Karpathy-style agent tear your systems apart\n> build a profile based on Ogilvy's principles to roast your copywriting\n\noption 2: go deeper with Obsidian and Hermes / Grok bot\n> feed it an entire youtube channel from someone you trust\n> or their blog, their newsletter, their podcast transcripts\n> prompt it to extract an expert card with their frameworks, decision patterns, and principles\n\nnow upload that material into your agent\n\nwhat happens next:\n\nClaude generates the first draft\n> sub-agent 1 reviews it through expert A's lens\n> sub-agent 2 stress-tests it with expert B's framework\n> sub-agent 3 catches what the others missed\n> all running at the same time\n\nClaude thinks through every piece of feedback and rebuilds\n\nyou only see the final version... the one that survived 3-5 rounds of real scrutiny\n\nthis is close from getting the absolute best output for a specific task"
+        },
+        {
+          "id": "2113586238997385454",
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "views": 8825,
+          "views_label": "8.8K",
+          "likes": 93,
+          "bookmarks": 170,
+          "retweets": 6,
+          "replies": 13,
+          "quotes": 0,
+          "engagement": 282,
+          "engagement_rate": 3.2,
+          "bookmark_like_ratio": 182.8,
+          "baseline_multiple": 1.2,
+          "virality_score": 69,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 13:00 CET",
+          "url": "https://x.com/rubenhassid/status/2113586238997385454",
+          "hook": "Stop using Claude (if you don't do this first).",
+          "original_en": "Stop using Claude (if you don't do this first).\n\nThis is not about prompting or skills. This is very different:\n\n1. You can't use Claude with a personal account.\n2. You can't use Claude without its desktop app.\n3. You can't use Claude without trying Claude Code.\n\n80% of my works in Claude Code now: there is no reason to use regular Claude chat. And don't even mention Claude Cowork: it has now merged with Claude chat.\n\nI believe everything will soon merge as \"Claude\" anyway: chat, cowork, and code. Jump on it now, to be prepared for the future.\n\nSo I made a Claude Code guide, and it's free. Access it here: https://t.co/UgE9xBXnm6."
+        },
+        {
+          "id": "2113609084285194305",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 8806,
+          "views_label": "8.8K",
+          "likes": 71,
+          "bookmarks": 15,
+          "retweets": 1,
+          "replies": 10,
+          "quotes": 0,
+          "engagement": 97,
+          "engagement_rate": 1.1,
+          "bookmark_like_ratio": 21.1,
+          "baseline_multiple": 0.7,
+          "virality_score": 55,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 14:30 CET",
+          "url": "https://x.com/EXM7777/status/2113609084285194305",
+          "hook": "not only is the iPhone Duo the most beautiful piece of tech i've ever gotten my hands on, it's also a BIG productivity boost",
+          "original_en": "not only is the iPhone Duo the most beautiful piece of tech i've ever gotten my hands on, it's also a BIG productivity boost\n\nthis is a masterclass in product engineering that started with the release of the iPhone Air, which opened a lot of doors for Apple in the process"
+        },
+        {
+          "id": "2113638416189476950",
+          "handle": "@camolNFT",
+          "name": "camol",
+          "views": 8383,
+          "views_label": "8.4K",
+          "likes": 265,
+          "bookmarks": 3,
+          "retweets": 10,
+          "replies": 65,
+          "quotes": 1,
+          "engagement": 344,
+          "engagement_rate": 4.1,
+          "bookmark_like_ratio": 1.1,
+          "baseline_multiple": 4.0,
+          "virality_score": 55,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 16:27 CET",
+          "url": "https://x.com/camolNFT/status/2113638416189476950",
+          "hook": "hot take:",
+          "original_en": "hot take:\n\ni preferred when everyone on my timeline had cartoon animal pfps, not their actual faces"
+        },
+        {
+          "id": "2113563672811323726",
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 7795,
+          "views_label": "7.8K",
+          "likes": 46,
+          "bookmarks": 63,
+          "retweets": 7,
+          "replies": 47,
+          "quotes": 1,
+          "engagement": 164,
+          "engagement_rate": 2.1,
+          "bookmark_like_ratio": 137.0,
+          "baseline_multiple": 0.3,
+          "virality_score": 63,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 11:30 CET",
+          "url": "https://x.com/tibo_maker/status/2113563672811323726",
+          "hook": "one of our users replaced half of his SDR team with a single agent on Squad 👀",
+          "original_en": "one of our users replaced half of his SDR team with a single agent on Squad 👀\n\nevery new signup gets researched, scored and a personal email drafted automatically.\n\nhere’s the exact workflow so you can copy it:\n\n- it wakes up on every new lead, whether that’s a new account, a lead magnet download or a website form\n- it checks the email domain first. personal emails like Gmail get skipped, and company domains move on to the next stage\n- then it researches the company from their website, the founders’ LinkedIn and X, and public data to work out what they do, how big the team is, who makes the call and what they probably need\n-  it scores the lead against your ideal customer and picks the angle for the email\n- it saves everything to your CRM or a sheet, so nobody gets researched twice\n- it sends you a short brief instead of a data dump: who they are, which tool they’re likely paying for today, why you’re a fit, and a ready-to-send draft\n\nyou reply send, edit or skip. obv nothing goes out without your yes\n\nit keeps a running doc of which angles get replies, so every email gets sharper than the last one\n\nsales teams pay SDRs to do this by hand, and even then only for their best leads\n\nthis agent does it for every single lead, and you can set it up on https://t.co/FrTmeMTA6U in literally one conversation"
+        },
+        {
+          "id": "2113589410813870304",
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 7073,
+          "views_label": "7.1K",
+          "likes": 162,
+          "bookmarks": 18,
+          "retweets": 12,
+          "replies": 81,
+          "quotes": 2,
+          "engagement": 275,
+          "engagement_rate": 3.89,
+          "bookmark_like_ratio": 11.1,
+          "baseline_multiple": 0.3,
+          "virality_score": 55,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 13:12 CET",
+          "url": "https://x.com/tibo_maker/status/2113589410813870304",
+          "hook": "when things don't go the way you hoped",
+          "original_en": "when things don't go the way you hoped\nand the success you were waiting for isn't showing up\n\nkeep shipping\n\nat some point, something happens\nan opportunity shows up\n\nand you only see it, and catch it, because you're moving\n\nkeep moving"
+        },
+        {
+          "id": "2113620362017624408",
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "views": 6590,
+          "views_label": "6.6K",
+          "likes": 49,
+          "bookmarks": 15,
+          "retweets": 2,
+          "replies": 11,
+          "quotes": 0,
+          "engagement": 77,
+          "engagement_rate": 1.17,
+          "bookmark_like_ratio": 30.6,
+          "baseline_multiple": 8.7,
+          "virality_score": 58,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 15:15 CET",
+          "url": "https://x.com/Trace_Cohen/status/2113620362017624408",
+          "hook": "I think one of the most overlooked problems in venture capital is that VCs have become professional collectors of updates.",
+          "original_en": "I think one of the most overlooked problems in venture capital is that VCs have become professional collectors of updates.\n\nEvery month, founders send investors beautiful emails.\n\nRevenue is up 20%. Burn is down 10%. Three new hires. Two product launches. A new partnership. Lots"
+        },
+        {
+          "id": "2113418761067958318",
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "views": 6174,
+          "views_label": "6.2K",
+          "likes": 60,
+          "bookmarks": 95,
+          "retweets": 3,
+          "replies": 8,
+          "quotes": 1,
+          "engagement": 167,
+          "engagement_rate": 2.7,
+          "bookmark_like_ratio": 158.3,
+          "baseline_multiple": 2.1,
+          "virality_score": 71,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 01:54 CET",
+          "url": "https://x.com/ryangrowthh/status/2113418761067958318",
+          "hook": "My 11-agent team of Grok Bots for creating viral content (+5000 followers in 14 days):",
+          "original_en": "My 11-agent team of Grok Bots for creating viral content (+5000 followers in 14 days):\n\n1. Chief of Staff: runs the content team. Sets my daily priorities/routines and tells each agent what to do\n\n2. 𝕏 Researcher: pulls my best posts and takes on any topic in seconds\n\n3. https://t.co/i92IOPj47e"
+        },
+        {
+          "id": "2113574232861122819",
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "views": 6115,
+          "views_label": "6.1K",
+          "likes": 141,
+          "bookmarks": 75,
+          "retweets": 6,
+          "replies": 24,
+          "quotes": 2,
+          "engagement": 248,
+          "engagement_rate": 4.06,
+          "bookmark_like_ratio": 53.2,
+          "baseline_multiple": 1.2,
+          "virality_score": 55,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 12:12 CET",
+          "url": "https://x.com/alexcooldev/status/2113574232861122819",
+          "hook": "1M views. Zero customers. Congrats, you went viral for nothing.",
+          "original_en": "1M views. Zero customers. Congrats, you went viral for nothing.\n\nMeanwhile, a post with 20k views can bring hundreds of paying users.\n\nThe difference?\n\n&gt; Target the right audience\n&gt; Show a real problem\n&gt; Demonstrate your solution\n&gt; Always include a clear CTA\n\nViews don't pay the"
+        },
+        {
+          "id": "2113447775828414559",
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "views": 5995,
+          "views_label": "6.0K",
+          "likes": 191,
+          "bookmarks": 39,
+          "retweets": 0,
+          "replies": 19,
+          "quotes": 1,
+          "engagement": 250,
+          "engagement_rate": 4.17,
+          "bookmark_like_ratio": 20.4,
+          "baseline_multiple": 0.8,
+          "virality_score": 55,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-23 03:49 CET",
+          "url": "https://x.com/hectorserrranoo/status/2113447775828414559",
+          "hook": "summer 2025 i was an intern on a trading desk in nyc, sneaking out of the office to work on @WisprFlow",
+          "original_en": "summer 2025 i was an intern on a trading desk in nyc, sneaking out of the office to work on @WisprFlow\n\n9 months prior i had just quit d1 soccer and the only things i had left were studying finance and making content\n\nso i started looking for creator jobs on linkedin and landed https://t.co/LNiRi9IxWy"
+        }
+      ],
+      "hits_count": 22,
+      "total_views": 525160,
+      "day_roster": [
+        {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "views": 121122,
+          "total_views": 144696,
+          "posts_count": 4,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/ryangrowthh/status/2113540940472463606"
+        },
+        {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "views": 61080,
+          "total_views": 61080,
+          "posts_count": 1,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/jaysmith_ai/status/2113697034616385800"
+        },
+        {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 51800,
+          "total_views": 108177,
+          "posts_count": 4,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/EXM7777/status/2113692938236748065"
+        },
+        {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 47577,
+          "total_views": 62445,
+          "posts_count": 3,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/tibo_maker/status/2113633105776890343"
+        },
+        {
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "views": 33440,
+          "total_views": 33440,
+          "posts_count": 1,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/ecoleai/status/2113534881183695241"
+        },
+        {
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "views": 18802,
+          "total_views": 28093,
+          "posts_count": 4,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/alexcooldev/status/2113708852147638345"
+        },
+        {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "views": 18662,
+          "total_views": 39709,
+          "posts_count": 8,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/aiedge_/status/2113646686988067028"
+        },
+        {
+          "handle": "@iksly2",
+          "name": "Kemi",
+          "views": 17126,
+          "total_views": 26784,
+          "posts_count": 7,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/iksly2/status/2113533810759397760"
+        },
+        {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "views": 14682,
+          "total_views": 24062,
+          "posts_count": 3,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/hectorserrranoo/status/2113676414973259782"
+        },
+        {
+          "handle": "@camolNFT",
+          "name": "camol",
+          "views": 12931,
+          "total_views": 23338,
+          "posts_count": 3,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/camolNFT/status/2113401536436900274"
+        },
+        {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "views": 8825,
+          "total_views": 14003,
+          "posts_count": 3,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/rubenhassid/status/2113586238997385454"
+        },
+        {
+          "handle": "@VibeMarketer_",
+          "name": "J.B.",
+          "views": 8320,
+          "total_views": 8320,
+          "posts_count": 1,
+          "hit": true,
+          "is_you": true,
+          "best_url": "https://x.com/VibeMarketer_/status/2113624496175469031"
+        },
+        {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "views": 6590,
+          "total_views": 13574,
+          "posts_count": 9,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/Trace_Cohen/status/2113620362017624408"
+        },
+        {
+          "handle": "@Nicolascole77",
+          "name": "Nicolas Cole 🚢👻",
+          "views": 4327,
+          "total_views": 10302,
+          "posts_count": 3,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/Nicolascole77/status/2113643634859847863"
+        },
+        {
+          "handle": "@pmitu",
+          "name": "Paul Mit",
+          "views": 3296,
+          "total_views": 5094,
+          "posts_count": 2,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/pmitu/status/2113644294351573042"
+        },
+        {
+          "handle": "@heyrobinai",
+          "name": "Robin Delta",
+          "views": 1945,
+          "total_views": 1945,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/heyrobinai/status/2113615102167703857"
+        },
+        {
+          "handle": "@leonabboud",
+          "name": "Leon Abboud",
+          "views": 1554,
+          "total_views": 3857,
+          "posts_count": 4,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/leonabboud/status/2113722046635200957"
+        },
+        {
+          "handle": "@thatGTMdude",
+          "name": "Abhishek Nair",
+          "views": 1219,
+          "total_views": 2733,
+          "posts_count": 3,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/thatGTMdude/status/2113576379640102946"
+        },
+        {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "views": 1088,
+          "total_views": 1338,
+          "posts_count": 2,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/HeyYoGB/status/2113604349758972096"
+        },
+        {
+          "handle": "@godofprompt",
+          "name": "God of Prompt",
+          "views": 630,
+          "total_views": 1706,
+          "posts_count": 3,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/godofprompt/status/2113642859903827992"
+        },
+        {
+          "handle": "@oggii_0",
+          "name": "Oogie",
+          "views": 411,
+          "total_views": 411,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/oggii_0/status/2113499885181747239"
+        },
+        {
+          "handle": "@zoost03",
+          "name": "Zoost",
+          "views": 155,
+          "total_views": 230,
+          "posts_count": 2,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/zoost03/status/2113679096454480328"
+        },
+        {
+          "handle": "@damianplayer",
+          "name": "Damian Player",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@eptwts",
+          "name": "EP",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@heyshrutimishra",
+          "name": "Shruti",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@sahilypatel",
+          "name": "Sahil",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        }
+      ],
+      "you_rank": {
+        "handle": "@VibeMarketer_",
+        "best_views": 8320,
+        "total_views": 8320,
+        "posts_count": 1,
+        "best_url": "https://x.com/VibeMarketer_/status/2113624496175469031",
+        "rank_among_watchlist": 12,
+        "total_accounts": 26,
+        "vs_5k": "done",
+        "vs_10k": "pending"
+      },
+      "no_hits": [
+        {
+          "handle": "@damianplayer",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@eptwts",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@heyrobinai",
+          "max_views": 1945,
+          "reason": "Posted 1 original(s), max reached 1.9K views (below 5k floor)."
+        },
+        {
+          "handle": "@heyshrutimishra",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@godofprompt",
+          "max_views": 630,
+          "reason": "Posted 3 original(s), max reached 630 views (below 5k floor)."
+        },
+        {
+          "handle": "@Nicolascole77",
+          "max_views": 4327,
+          "reason": "Posted 3 original(s), max reached 4.3K views (below 5k floor)."
+        },
+        {
+          "handle": "@leonabboud",
+          "max_views": 1554,
+          "reason": "Posted 4 original(s), max reached 1.6K views (below 5k floor)."
+        },
+        {
+          "handle": "@HeyYoGB",
+          "max_views": 1088,
+          "reason": "Posted 2 original(s), max reached 1.1K views (below 5k floor)."
+        },
+        {
+          "handle": "@oggii_0",
+          "max_views": 411,
+          "reason": "Posted 1 original(s), max reached 411 views (below 5k floor)."
+        },
+        {
+          "handle": "@sahilypatel",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@pmitu",
+          "max_views": 3296,
+          "reason": "Posted 2 original(s), max reached 3.3K views (below 5k floor)."
+        },
+        {
+          "handle": "@thatGTMdude",
+          "max_views": 1219,
+          "reason": "Posted 3 original(s), max reached 1.2K views (below 5k floor)."
+        },
+        {
+          "handle": "@zoost03",
+          "max_views": 155,
+          "reason": "Posted 2 original(s), max reached 155 views (below 5k floor)."
+        }
+      ]
+    },
+    "2026-10-24": {
+      "date": "2026-10-24",
+      "hits": [
+        {
+          "id": "2113948625927852196",
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "views": 75612,
+          "views_label": "75.6K",
+          "likes": 859,
+          "bookmarks": 1867,
+          "retweets": 114,
+          "replies": 29,
+          "quotes": 2,
+          "engagement": 2871,
+          "engagement_rate": 3.8,
+          "bookmark_like_ratio": 217.3,
+          "baseline_multiple": 10.6,
+          "virality_score": 91,
+          "highlight": true,
+          "self_quote": true,
+          "self_quote_label": "self-quote",
+          "created_at": "2026-10-24 13:00 CET",
+          "url": "https://x.com/rubenhassid/status/2113948625927852196",
+          "hook": "Give me 3 mins, and I will make you better at Claude than 90% of people.",
+          "original_en": "Give me 3 mins, and I will make you better at Claude than 90% of people.\n\nFirst up, delete these things from your claude:\n\n1. Go to Claude → Account → “Instructions for Claude.\" Empty the box.\n2. Claude left bar → Customize → Skills. Remove anything you uploaded about yourself.\n3. Skills → Yours → Search “writing” → Turn off.\n4. Claude Setting → Memory → Turn it off.\n5. Any over-organised folder you maintain.\n6. Subfolders inside the folder in folder (of course).\n7. about-me .md you wrote in the past.\n8. Anti-AI writing file (download the skill instead)\n9. All the folder protocol in Claude instructions.\n10. Forget the habit of choosing Chat-Cowork-Code\n11. Any prompt library. You just need one.\n12. 100 Projects with 100+ files, rules & constraints.\n13. Any Claude skill written for old models.\n14. Skills that overlap with other skills.\n15. Delete global instructions. It ignores it anyway.\n16. Habit of using \"High\" for grammar tasks.\n17. Habit of switching on connectors when you don't need them, because \"just in case.\"\n18. Claude Plugin pack for one-off tasks.\n19. Someone else's copy-pasted prompts.\n\nNow keep or set up only these 6 things:\n\n1. You only need this one prompt to start a chat\n\n\"Goal: [what you want, and what it's for] Context: [who it's for, what you already have, what good looks like] Before you start, restate in your own words what you think my goals are and the problem I'm trying to solve. If you need more context, ask me questions.\"\n\n2. Ask for HTML (trust me).\n\nStop asking for a Word file, a PowerPoint or a PDF.\n\nTry asking for HTML. Add this line to your prompt:\n\n\"Make it an HTML page.\"\n\n3. Switch your massive folder to short memory\n\nOpen the Claude desktop app & select your old folder (mine was called CLAUDE COWORK) and copy a long prompt from this guide to turn into a short memory Claude can keep: https://t.co/NYWCbdGAVl\n\nThe prompt will start the process, then answer every question. You'll get the block to copy. Go to Memory → at the bottom, paste it → it will update your memory.\n\nFYI: Delete this entire setup (again) in the coming 6 months. By then, we might have Claude-7 with the kind of speed Anthropic is releasing new models.\n\nPS: I would rather read the free guide instead of this post: https://t.co/NYWCbdGAVl"
+        },
+        {
+          "id": "2114096091973173311",
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "views": 74749,
+          "views_label": "74.7K",
+          "likes": 105,
+          "bookmarks": 44,
+          "retweets": 46,
+          "replies": 9,
+          "quotes": 0,
+          "engagement": 204,
+          "engagement_rate": 0.27,
+          "bookmark_like_ratio": 41.9,
+          "baseline_multiple": 15.5,
+          "virality_score": 72,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-24 22:46 CET",
+          "url": "https://x.com/ecoleai/status/2114096091973173311",
+          "hook": "You’ve filmed the product from every angle. Now comes the part that usually takes forever: editing it all together 😅",
+          "original_en": "You’ve filmed the product from every angle. Now comes the part that usually takes forever: editing it all together 😅\n\nTry a smarter UGC workflow with the official CapCut plugin for ChatGPT. Describe your concept, use your own clips, and let Codex help shape the rough cut.\n\nNeed https://t.co/HwKkvm7cC8"
+        },
+        {
+          "id": "2114033228361449488",
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "views": 28609,
+          "views_label": "28.6K",
+          "likes": 182,
+          "bookmarks": 259,
+          "retweets": 3,
+          "replies": 18,
+          "quotes": 0,
+          "engagement": 462,
+          "engagement_rate": 1.61,
+          "bookmark_like_ratio": 142.3,
+          "baseline_multiple": 9.7,
+          "virality_score": 83,
+          "highlight": true,
+          "self_quote": true,
+          "self_quote_label": "self-quote",
+          "created_at": "2026-10-24 18:36 CET",
+          "url": "https://x.com/ryangrowthh/status/2114033228361449488",
+          "hook": "btw, I got 5 DMs in &lt;24 hours of people who made money using Grok Bot this way.",
+          "original_en": "btw, I got 5 DMs in &lt;24 hours of people who made money using Grok Bot this way. \n\nUnderrated method as a creator. https://t.co/Ah2oOpo1d2"
+        },
+        {
+          "id": "2114016937663660530",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 25734,
+          "views_label": "25.7K",
+          "likes": 382,
+          "bookmarks": 217,
+          "retweets": 11,
+          "replies": 30,
+          "quotes": 0,
+          "engagement": 640,
+          "engagement_rate": 2.49,
+          "bookmark_like_ratio": 56.8,
+          "baseline_multiple": 2.1,
+          "virality_score": 58,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-24 17:31 CET",
+          "url": "https://x.com/EXM7777/status/2114016937663660530",
+          "hook": "if you're not spending your days talking to Deepseek abliterated inside Pi, what are you doing?",
+          "original_en": "if you're not spending your days talking to Deepseek abliterated inside Pi, what are you doing?"
+        },
+        {
+          "id": "2113984722036785274",
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 22943,
+          "views_label": "22.9K",
+          "likes": 146,
+          "bookmarks": 379,
+          "retweets": 14,
+          "replies": 48,
+          "quotes": 4,
+          "engagement": 591,
+          "engagement_rate": 2.58,
+          "bookmark_like_ratio": 259.6,
+          "baseline_multiple": 1.0,
+          "virality_score": 72,
+          "highlight": true,
+          "self_quote": true,
+          "self_quote_label": "self-quote",
+          "created_at": "2026-10-24 15:23 CET",
+          "url": "https://x.com/tibo_maker/status/2113984722036785274",
+          "hook": "it's literally this simple to run an army of AI UGC creators https://t.co/aRwyx2M3Zk https://t.co/Hr4a5ZVMem",
+          "original_en": "it's literally this simple to run an army of AI UGC creators https://t.co/aRwyx2M3Zk https://t.co/Hr4a5ZVMem"
+        },
+        {
+          "id": "2113998207097450723",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 14615,
+          "views_label": "14.6K",
+          "likes": 392,
+          "bookmarks": 570,
+          "retweets": 29,
+          "replies": 21,
+          "quotes": 1,
+          "engagement": 1013,
+          "engagement_rate": 6.93,
+          "bookmark_like_ratio": 145.4,
+          "baseline_multiple": 1.2,
+          "virality_score": 71,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-24 16:17 CET",
+          "url": "https://x.com/EXM7777/status/2113998207097450723",
+          "hook": "how to steal the style of any image you find online:",
+          "original_en": "how to steal the style of any image you find online:\n\n- copy+paste your image inside Gemini 4 Argon\n- use this prompt : \"extract this visual style as JSON structured data: colors, typography, composition, effects... make it ultra detailed\"\n- save this file and inject it whenever https://t.co/fnZLQRH8Zj"
+        },
+        {
+          "id": "2113926045925515696",
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 14296,
+          "views_label": "14.3K",
+          "likes": 136,
+          "bookmarks": 50,
+          "retweets": 2,
+          "replies": 105,
+          "quotes": 1,
+          "engagement": 294,
+          "engagement_rate": 2.06,
+          "bookmark_like_ratio": 36.8,
+          "baseline_multiple": 0.6,
+          "virality_score": 55,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-24 11:30 CET",
+          "url": "https://x.com/tibo_maker/status/2113926045925515696",
+          "hook": "wild discovery:",
+          "original_en": "wild discovery:\n\non my latest test, 65% of the listicles AI cited had \"2026\" in the title"
+        },
+        {
+          "id": "2113969506062413831",
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "views": 8977,
+          "views_label": "9.0K",
+          "likes": 123,
+          "bookmarks": 188,
+          "retweets": 4,
+          "replies": 28,
+          "quotes": 0,
+          "engagement": 343,
+          "engagement_rate": 3.82,
+          "bookmark_like_ratio": 152.8,
+          "baseline_multiple": 8.3,
+          "virality_score": 82,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-24 14:23 CET",
+          "url": "https://x.com/HeyYoGB/status/2113969506062413831",
+          "hook": "i'm using grokbot to find my clients.",
+          "original_en": "i'm using grokbot to find my clients.\n\nif you've got 30 minutes this weekend, steal this setup and start building:\n\nfirst, tell it what you sell, who it's for and give it a few examples of messages you'd actually send.\n\nthen build these 3 agents:\n\n1. lead list builder\nresearches each person and saves why they might be a fit, where it found them and how i could reach out.\n\ni want actual research behind the message. give me something about this person i can start a conversation with.\n\n2. pipeline tracker\nkeeps track of who i've contacted, what happened and when i should follow up.\n\ni tell it when i've sent something or gotten a reply. if i don't log it, it doesn't know. you still have to do your part here.\n\n3. outreach drafter\ntakes that research and writes a short message i'd actually send.\n\nmy rules are pretty simple:\n- 25–50 words\n- open with something specific about them\n- ask one easy question\n- don't ask for a call straight away\n- don't make up customer stories\n- offer my free personal brand starter kit only when it makes sense\n\nfor email, it gives me a subject line too. if replying to their post makes more sense, it drafts a useful reply. everyone doesn't need a dm pitch.\n\ni read it, edit it and send it myself. then i log what happened so the next message has context.\n\nthat's a pretty useful way to spend part of your weekend."
+        },
+        {
+          "id": "2114098864194290169",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 8018,
+          "views_label": "8.0K",
+          "likes": 161,
+          "bookmarks": 124,
+          "retweets": 8,
+          "replies": 25,
+          "quotes": 0,
+          "engagement": 318,
+          "engagement_rate": 3.97,
+          "bookmark_like_ratio": 77.0,
+          "baseline_multiple": 0.6,
+          "virality_score": 56,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-24 22:57 CET",
+          "url": "https://x.com/EXM7777/status/2114098864194290169",
+          "hook": "building the habit of writing things down will very soon be a game changer when working with AI...",
+          "original_en": "building the habit of writing things down will very soon be a game changer when working with AI...\n\nwe all came to the same conclusion by now: the better the context you give, the better the output you get\n\nthat part isn't debatable anymore\n\nif you're someone who writes down https://t.co/HXiBVBgnWA"
+        },
+        {
+          "id": "2114045221138735283",
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "views": 7356,
+          "views_label": "7.4K",
+          "likes": 36,
+          "bookmarks": 15,
+          "retweets": 0,
+          "replies": 15,
+          "quotes": 0,
+          "engagement": 66,
+          "engagement_rate": 0.9,
+          "bookmark_like_ratio": 41.7,
+          "baseline_multiple": 9.7,
+          "virality_score": 60,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-24 19:23 CET",
+          "url": "https://x.com/Trace_Cohen/status/2114045221138735283",
+          "hook": "I don’t understand when emerging managers invest in $50-$200M rounds first check at $250M-$1B Vals.",
+          "original_en": "I don’t understand when emerging managers invest in $50-$200M rounds first check at $250M-$1B Vals. \n\nI get it signals access/hype but how does the math math?\n\nI guess \n\n1) you can do a few per fund\n2) fund is already doing well\n3) can’t really say no\n4) next round will be a big"
+        },
+        {
+          "id": "2114055321836806544",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 6559,
+          "views_label": "6.6K",
+          "likes": 53,
+          "bookmarks": 24,
+          "retweets": 2,
+          "replies": 10,
+          "quotes": 0,
+          "engagement": 89,
+          "engagement_rate": 1.36,
+          "bookmark_like_ratio": 45.3,
+          "baseline_multiple": 0.5,
+          "virality_score": 55,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-24 20:04 CET",
+          "url": "https://x.com/EXM7777/status/2114055321836806544",
+          "hook": "i'm closing all new enrollments for the Real-Time AI Ops Community",
+          "original_en": "i'm closing all new enrollments for the Real-Time AI Ops Community\n\ni've also frozen every subscription for 30 days, so everyone inside basically gets a month for free\n\ni still believe it's the most valuable community in the AI space... it's already super interactive, with agents"
+        }
+      ],
+      "hits_count": 11,
+      "total_views": 287468,
+      "day_roster": [
+        {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "views": 75612,
+          "total_views": 77573,
+          "posts_count": 2,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/rubenhassid/status/2113948625927852196"
+        },
+        {
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "views": 74749,
+          "total_views": 76343,
+          "posts_count": 2,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/ecoleai/status/2114096091973173311"
+        },
+        {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "views": 28609,
+          "total_views": 30658,
+          "posts_count": 2,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/ryangrowthh/status/2114033228361449488"
+        },
+        {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 25734,
+          "total_views": 54926,
+          "posts_count": 4,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/EXM7777/status/2114016937663660530"
+        },
+        {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 22943,
+          "total_views": 37239,
+          "posts_count": 2,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/tibo_maker/status/2113984722036785274"
+        },
+        {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "views": 8977,
+          "total_views": 9721,
+          "posts_count": 2,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/HeyYoGB/status/2113969506062413831"
+        },
+        {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "views": 7356,
+          "total_views": 17952,
+          "posts_count": 7,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/Trace_Cohen/status/2114045221138735283"
+        },
+        {
+          "handle": "@VibeMarketer_",
+          "name": "J.B.",
+          "views": 5378,
+          "total_views": 14766,
+          "posts_count": 4,
+          "hit": true,
+          "is_you": true,
+          "best_url": "https://x.com/VibeMarketer_/status/2114011129580224785"
+        },
+        {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "views": 4049,
+          "total_views": 13315,
+          "posts_count": 4,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/aiedge_/status/2113764661971783931"
+        },
+        {
+          "handle": "@leonabboud",
+          "name": "Leon Abboud",
+          "views": 4011,
+          "total_views": 8617,
+          "posts_count": 5,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/leonabboud/status/2114077743881064899"
+        },
+        {
+          "handle": "@camolNFT",
+          "name": "camol",
+          "views": 3391,
+          "total_views": 13862,
+          "posts_count": 6,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/camolNFT/status/2113982327986819516"
+        },
+        {
+          "handle": "@Nicolascole77",
+          "name": "Nicolas Cole 🚢👻",
+          "views": 3130,
+          "total_views": 7222,
+          "posts_count": 3,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/Nicolascole77/status/2114009025293455458"
+        },
+        {
+          "handle": "@thatGTMdude",
+          "name": "Abhishek Nair",
+          "views": 3023,
+          "total_views": 5342,
+          "posts_count": 4,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/thatGTMdude/status/2113988343147176388"
+        },
+        {
+          "handle": "@iksly2",
+          "name": "Kemi",
+          "views": 1721,
+          "total_views": 3028,
+          "posts_count": 3,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/iksly2/status/2113894974450287096"
+        },
+        {
+          "handle": "@heyrobinai",
+          "name": "Robin Delta",
+          "views": 1604,
+          "total_views": 1604,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/heyrobinai/status/2113965569116672003"
+        },
+        {
+          "handle": "@godofprompt",
+          "name": "God of Prompt",
+          "views": 936,
+          "total_views": 936,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/godofprompt/status/2113948958259380263"
+        },
+        {
+          "handle": "@pmitu",
+          "name": "Paul Mit",
+          "views": 422,
+          "total_views": 422,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/pmitu/status/2113883183661855165"
+        },
+        {
+          "handle": "@zoost03",
+          "name": "Zoost",
+          "views": 164,
+          "total_views": 164,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/zoost03/status/2113963833383412136"
+        },
+        {
+          "handle": "@oggii_0",
+          "name": "Oogie",
+          "views": 92,
+          "total_views": 92,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/oggii_0/status/2113887497751253111"
+        },
+        {
+          "handle": "@damianplayer",
+          "name": "Damian Player",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@eptwts",
+          "name": "EP",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@heyshrutimishra",
+          "name": "Shruti",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@sahilypatel",
+          "name": "Sahil",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        }
+      ],
+      "you_rank": {
+        "handle": "@VibeMarketer_",
+        "best_views": 5378,
+        "total_views": 14766,
+        "posts_count": 4,
+        "best_url": "https://x.com/VibeMarketer_/status/2114011129580224785",
+        "rank_among_watchlist": 8,
+        "total_accounts": 26,
+        "vs_5k": "done",
+        "vs_10k": "pending"
+      },
+      "no_hits": [
+        {
+          "handle": "@damianplayer",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@hectorserrranoo",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@eptwts",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@heyrobinai",
+          "max_views": 1604,
+          "reason": "Posted 1 original(s), max reached 1.6K views (below 5k floor)."
+        },
+        {
+          "handle": "@aiedge_",
+          "max_views": 4049,
+          "reason": "Posted 4 original(s), max reached 4.0K views (below 5k floor)."
+        },
+        {
+          "handle": "@heyshrutimishra",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@godofprompt",
+          "max_views": 936,
+          "reason": "Posted 1 original(s), max reached 936 views (below 5k floor)."
+        },
+        {
+          "handle": "@Nicolascole77",
+          "max_views": 3130,
+          "reason": "Posted 3 original(s), max reached 3.1K views (below 5k floor)."
+        },
+        {
+          "handle": "@leonabboud",
+          "max_views": 4011,
+          "reason": "Posted 5 original(s), max reached 4.0K views (below 5k floor)."
+        },
+        {
+          "handle": "@oggii_0",
+          "max_views": 92,
+          "reason": "Posted 1 original(s), max reached 92 views (below 5k floor)."
+        },
+        {
+          "handle": "@iksly2",
+          "max_views": 1721,
+          "reason": "Posted 3 original(s), max reached 1.7K views (below 5k floor)."
+        },
+        {
+          "handle": "@sahilypatel",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@camolNFT",
+          "max_views": 3391,
+          "reason": "Posted 6 original(s), max reached 3.4K views (below 5k floor)."
+        },
+        {
+          "handle": "@pmitu",
+          "max_views": 422,
+          "reason": "Posted 1 original(s), max reached 422 views (below 5k floor)."
+        },
+        {
+          "handle": "@alexcooldev",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@thatGTMdude",
+          "max_views": 3023,
+          "reason": "Posted 4 original(s), max reached 3.0K views (below 5k floor)."
+        },
+        {
+          "handle": "@jaysmith_ai",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@zoost03",
+          "max_views": 164,
+          "reason": "Posted 1 original(s), max reached 164 views (below 5k floor)."
+        }
+      ]
+    },
+    "2026-10-25": {
+      "date": "2026-10-25",
+      "hits": [
+        {
+          "id": "2114348755357249622",
+          "handle": "@sahilypatel",
+          "name": "Sahil",
+          "views": 442722,
+          "views_label": "442.7K",
+          "likes": 7963,
+          "bookmarks": 2268,
+          "retweets": 244,
+          "replies": 71,
+          "quotes": 29,
+          "engagement": 10575,
+          "engagement_rate": 2.39,
+          "bookmark_like_ratio": 28.5,
+          "baseline_multiple": 179.2,
+          "virality_score": 78,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 14:30 CET",
+          "url": "https://x.com/sahilypatel/status/2114348755357249622",
+          "hook": "imagine being so smart that your college professor calls you a “national treasure” and personally asks elon musk and larry page to hire you",
+          "original_en": "imagine being so smart that your college professor calls you a “national treasure” and personally asks elon musk and larry page to hire you  \n\nand musk actually ends up offering you a job at spacex.  \n\nthis was dario amodei in college https://t.co/KexuTnP62p"
+        },
+        {
+          "id": "2114222189725790329",
+          "handle": "@sahilypatel",
+          "name": "Sahil",
+          "views": 272794,
+          "views_label": "272.8K",
+          "likes": 1034,
+          "bookmarks": 295,
+          "retweets": 12,
+          "replies": 20,
+          "quotes": 1,
+          "engagement": 1362,
+          "engagement_rate": 0.5,
+          "bookmark_like_ratio": 28.5,
+          "baseline_multiple": 110.4,
+          "virality_score": 75,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 06:07 CET",
+          "url": "https://x.com/sahilypatel/status/2114222189725790329",
+          "hook": "the aura you gain after leaving a tech company needs to be studied https://t.co/EJoQqM1IKT",
+          "original_en": "the aura you gain after leaving a tech company needs to be studied https://t.co/EJoQqM1IKT"
+        },
+        {
+          "id": "2114202560118853634",
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "views": 53695,
+          "views_label": "53.7K",
+          "likes": 123,
+          "bookmarks": 3,
+          "retweets": 9,
+          "replies": 9,
+          "quotes": 0,
+          "engagement": 144,
+          "engagement_rate": 0.27,
+          "bookmark_like_ratio": 2.4,
+          "baseline_multiple": 1.0,
+          "virality_score": 55,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 04:49 CET",
+          "url": "https://x.com/jaysmith_ai/status/2114202560118853634",
+          "hook": "Ready to rethink the way you create videos? 💬🚀",
+          "original_en": "Ready to rethink the way you create videos? 💬🚀\n\nCapCut World brought the creative community together in LA to explore how AI can make video production feel more like a conversation.\n\nStart with the CapCut plugin on ChatGPT desktop through early access, then perfect your content in CapCut Web.\n\nChatGPT mobile and web support is expected in mid-November.\n\n#CapCutDidThat #ChatGPT #CapCutWorld"
+        },
+        {
+          "id": "2114167560690413870",
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "views": 39404,
+          "views_label": "39.4K",
+          "likes": 511,
+          "bookmarks": 793,
+          "retweets": 20,
+          "replies": 155,
+          "quotes": 2,
+          "engagement": 1481,
+          "engagement_rate": 3.76,
+          "bookmark_like_ratio": 155.2,
+          "baseline_multiple": 13.4,
+          "virality_score": 91,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 02:30 CET",
+          "url": "https://x.com/ryangrowthh/status/2114167560690413870",
+          "hook": "50 valuable Grok Bots for 𝕏 creators:",
+          "original_en": "50 valuable Grok Bots for 𝕏 creators:\n\nJust tag @bot to install a few https://t.co/lbqhabhJnP"
+        },
+        {
+          "id": "2114326916060622954",
+          "handle": "@eptwts",
+          "name": "EP",
+          "views": 20003,
+          "views_label": "20.0K",
+          "likes": 429,
+          "bookmarks": 311,
+          "retweets": 6,
+          "replies": 38,
+          "quotes": 3,
+          "engagement": 787,
+          "engagement_rate": 3.93,
+          "bookmark_like_ratio": 72.5,
+          "baseline_multiple": 0.9,
+          "virality_score": 58,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 13:03 CET",
+          "url": "https://x.com/eptwts/status/2114326916060622954",
+          "hook": "i've been thinking about what the most AI-proof online business models are, here's my conclusion:",
+          "original_en": "i've been thinking about what the most AI-proof online business models are, here's my conclusion:\n\n> marketplaces\n> dating apps\n> casinos\n> communities\n> telehealth\n> payments\n\nhonorable mention: personal brands - technically not a business model, but owning attention is a launchpad for any type of business, whether that's your own or another business pays you to promote theirs"
+        },
+        {
+          "id": "2114343809454625168",
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 16665,
+          "views_label": "16.7K",
+          "likes": 77,
+          "bookmarks": 37,
+          "retweets": 0,
+          "replies": 80,
+          "quotes": 2,
+          "engagement": 196,
+          "engagement_rate": 1.18,
+          "bookmark_like_ratio": 48.1,
+          "baseline_multiple": 0.7,
+          "virality_score": 55,
+          "highlight": true,
+          "self_quote": true,
+          "self_quote_label": "self-quote",
+          "created_at": "2026-10-25 14:10 CET",
+          "url": "https://x.com/tibo_maker/status/2114343809454625168",
+          "hook": "10 months ago I made 15 predictions for 2026",
+          "original_en": "10 months ago I made 15 predictions for 2026\n\ntime for a quick review:\n\n✅ got it right\n3. AI security became a mess, you scan found ~5,000 vibe-coded apps leaking medical records and company docs\n4-5. nobody managed to label AI content, and no \"receipts\" standard stuck\n7. AI moved inside the tools. code, browser, inbox, CRM. the chat box is just one place among many now\n11. memory is the moat. the AI tools I still pay for are the ones that remember my context\n15. agent marketplaces never really took off\n\n❌ got it wrong\n2. agents still can't shop like humans. almost every AI-assisted purchase still ends with a human clicking \"buy\"\n8. I said gen video peaked in 2025. then Revid had its best year ever 😅\n\n🤷 too early to call\n1. Google - half right, it's close\n6. humanoids - great demos, nothing i can buy yet\n9, 10, 12, 13, 14 - you tell me\n\n6 right, 2 wrong, 7 still open\n\nwhat's the most surprising story here?"
+        },
+        {
+          "id": "2114460995066474940",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 14285,
+          "views_label": "14.3K",
+          "likes": 224,
+          "bookmarks": 315,
+          "retweets": 9,
+          "replies": 45,
+          "quotes": 2,
+          "engagement": 595,
+          "engagement_rate": 4.17,
+          "bookmark_like_ratio": 140.6,
+          "baseline_multiple": 1.2,
+          "virality_score": 69,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 21:56 CET",
+          "url": "https://x.com/EXM7777/status/2114460995066474940",
+          "hook": "if you want to get the best out of Hermes today... do this:",
+          "original_en": "if you want to get the best out of Hermes today... do this:\n\n> list every tool you use daily, business or not\n> find their APIs, MCPs, CLIs... anything you can feed to an agent\n> prompt Hermes to run a full context collection interview\n> describe your workflows in plain english\n\nwhen done, prompt your agent to analyze all the material, come up with a proper project structure and .md files\n\nyou now have a full workspace built around YOUR business (that you can move from Hermes to Claude Code or Grok Bot)\n\nnot a generic setup... not someone else's template... a system that knows how you work, what tools you use, and what you're trying to do\n\nthat's the difference between using AI and having AI work for you"
+        },
+        {
+          "id": "2114416450765291751",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 13745,
+          "views_label": "13.7K",
+          "likes": 202,
+          "bookmarks": 178,
+          "retweets": 4,
+          "replies": 23,
+          "quotes": 5,
+          "engagement": 412,
+          "engagement_rate": 3.0,
+          "bookmark_like_ratio": 88.1,
+          "baseline_multiple": 1.1,
+          "virality_score": 59,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 18:59 CET",
+          "url": "https://x.com/EXM7777/status/2114416450765291751",
+          "hook": "every single article i've written with 1M+ views wasn't actually written by me...",
+          "original_en": "every single article i've written with 1M+ views wasn't actually written by me...\n\ni just used my phone to dictate it\n\nbecause the truth is... your brain doesn't think in text\n\nit never did, it thinks in connections, in patterns, in half-formed ideas that make perfect sense until you try to type them out\n\nand the moment your fingers hit a keyboard, you stop thinking and start performing because every sentence gets filtered through \"does this sound good?\"\n\nso i started using tools like Wispr Flow or Willow to dictate all my first drafts... here's what my process looks like now:\n\n> i go for a walk, open the app on my phone\n> talk through the entire article like i'm explaining it to someone who asked a great question\n> the app captures it all in real time, cleans out the filler words, formats it into actual paragraphs\n> 15 minutes later i have a draft on my phone that reads like something i'd publish, not a messy transcript i need to spend an hour cleaning up\n\nthen i work on the the structure, ask claude for refinements, rewrite some parts and publish... that's a full article, under 2 hours\n\nwhen you speak, you don't overthink\n\nthat directness hits different because readers can feel it... there's a natural rhythm in spoken thought that you cannot recreate by typing carefully (unless you're absolutely cracked at copywriting)\n\nbeen running this system on desktop and iphone for months, highly recommend"
+        },
+        {
+          "id": "2114327364012548575",
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "views": 12578,
+          "views_label": "12.6K",
+          "likes": 136,
+          "bookmarks": 285,
+          "retweets": 5,
+          "replies": 16,
+          "quotes": 0,
+          "engagement": 442,
+          "engagement_rate": 3.51,
+          "bookmark_like_ratio": 209.6,
+          "baseline_multiple": 11.6,
+          "virality_score": 86,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 13:05 CET",
+          "url": "https://x.com/HeyYoGB/status/2114327364012548575",
+          "hook": "10 grok bots you need to make internet money",
+          "original_en": "10 grok bots you need to make internet money\n\nif you've got 30 minutes this weekend, steal this list and start building:\n\n1. Outbound Prospecting by @kristaletz\nfinds people who match your ideal customer, researches each one on the public web, and drafts a first message. nothing sends without your yes.\n\na prospect list and a first draft without living in a spreadsheet all week\nhttps://t.co/ow4gKtlkyb\n\n2. Cold Outreach by @notswizz\ngive it your company url. it researches the business, finds and scores prospects, and writes short personalized cold emails.\n\noutreach drafts lined up so you can actually send something today\nhttps://t.co/WjWJnonxjp\n\n3. Haggle Bot by Daniel Gartshein\ninventories your saas spend from ramp and bills, finds unused seats, duplicates, and cheaper alternatives, then drafts vendor counters. never spends, signs, or sends without you.\n\nmoney you stop leaking is money you get to keep\nhttps://t.co/NJOxqUosFL\n\n4. SEO & AEO Desk by @adamta\nturns your keywords or search console data into content ideas and writer-ready briefs for google and ai answers.\n\nwrite toward what people are already looking for\nhttps://t.co/oC7wWxgzsF\n\n5. Pitch Board by @teeRex247\npaste a messy client brief and get a flowchart, funnel, or mood board, with every assumption flagged so nothing sneaks in.\n\nsell the plan visually before the scope goes sideways\nhttps://t.co/nysbAdwPzF\n\n6. Any CRM by @CorbenH414\nworks inside whatever crm you already run (salesforce, hubspot, gohighlevel, zoho, pipedrive, dynamics, and more). updates records, follow-ups, and reports.\n\npipeline hygiene without another hour of data entry\nhttps://t.co/dUrEulK5kl\n\n7. Freelance Invoice Chaser by @crisships\ntracks who owes you, watches gmail for payments and replies, and drafts each reminder on a set schedule. you approve every send.\n\nwork done should turn into money in the account\nhttps://t.co/RlUpnquY9F\n\n8. Account Research by @weaverwork\nresearch desk for one named enterprise account. maps the buying committee, finds why-now triggers, and drafts outreach for you to review. never invents names and never sends on its own.\n\nwalk into the next account call with a real map\nhttps://t.co/KX7KqzQSU5\n\n9. X Growth Manager by @mozamm_el\ndrafts daily replies, text posts, lead research, and casual dms with follow-ups. nothing goes out without your ok.\n\ngrowth work and client-finding drafts in one queue\nhttps://t.co/IeReBWPiJG\n\n10. Afterglow by @thecsguy\ndaily digest of how your posts actually did. what moved, verified vs unverified, what got replies, what died. no drafting, just the data.\n\nstop guessing which posts deserve a follow-up offer\nhttps://t.co/1kvczZIpvQ\n\nfollow me for more content systems and internet money"
+        },
+        {
+          "id": "2114357310785208401",
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 12182,
+          "views_label": "12.2K",
+          "likes": 219,
+          "bookmarks": 145,
+          "retweets": 20,
+          "replies": 28,
+          "quotes": 1,
+          "engagement": 413,
+          "engagement_rate": 3.39,
+          "bookmark_like_ratio": 66.2,
+          "baseline_multiple": 1.0,
+          "virality_score": 55,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 15:04 CET",
+          "url": "https://x.com/EXM7777/status/2114357310785208401",
+          "hook": "if you're wondering whether you should go all in on AI, the math is simple...",
+          "original_en": "if you're wondering whether you should go all in on AI, the math is simple...\n\n> ignoring it = betting your entire life on the tech not mattering (you already lost)\n> going deep = infinite upside for a few months of your time\n\nthat's not hype, that's just math\n\n> spend your days playing with the tech\n> solve real problems with it\n> build something, even if it's ugly at first\n\nworst case you wasted time learning the most important skill of the decade\n\nnow flip it:\n\n> ignore AI completely\n> hope your current skills stay relevant\n> compete against people who didn't ignore it\n\nworst case you're irreplaceable... nah, worst case you're invisible\n\nthere is literally no logical argument for sitting this one out\n\nthe risk/reward ratio has never been this broken in your favor\n\ntake the bet"
+        },
+        {
+          "id": "2114379700802076753",
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "views": 11788,
+          "views_label": "11.8K",
+          "likes": 149,
+          "bookmarks": 102,
+          "retweets": 7,
+          "replies": 24,
+          "quotes": 1,
+          "engagement": 283,
+          "engagement_rate": 2.4,
+          "bookmark_like_ratio": 68.5,
+          "baseline_multiple": 2.2,
+          "virality_score": 58,
+          "highlight": true,
+          "self_quote": true,
+          "self_quote_label": "self-quote",
+          "created_at": "2026-10-25 16:32 CET",
+          "url": "https://x.com/alexcooldev/status/2114379700802076753",
+          "hook": "My game is now 90% complete, with almost all features built. 🔥",
+          "original_en": "My game is now 90% complete, with almost all features built. 🔥\n\n30+ real-world businesses, dynamic weather, day/night cycles, and an economy that reacts to them.\n\nAdded monetization: rewarded ads, season passes, lucky spins, and diamonds to speed up progress. Still free-to-play!\n\nNow it’s time to test, fix bugs, and polish before launch. 👀\n\nBuilt with Opus 5.5 + Sonnet 5.5 for smaller tasks."
+        },
+        {
+          "id": "2114328555580489777",
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "views": 11351,
+          "views_label": "11.4K",
+          "likes": 123,
+          "bookmarks": 19,
+          "retweets": 10,
+          "replies": 32,
+          "quotes": 3,
+          "engagement": 187,
+          "engagement_rate": 1.65,
+          "bookmark_like_ratio": 15.4,
+          "baseline_multiple": 15.0,
+          "virality_score": 62,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 13:09 CET",
+          "url": "https://x.com/Trace_Cohen/status/2114328555580489777",
+          "hook": "I think the startup world has made fundraising way too much of a full-time job.",
+          "original_en": "I think the startup world has made fundraising way too much of a full-time job.\n\nFounders spend six months pitching 100 VCs, tweaking decks, chasing introductions, and answering the same questions over and over.\n\nThen they finally raise $5M, celebrate for a week, and start preparing for the next round.\n\nAt some point, when do you actually build the company?\n\nI’ve seen founders who are incredible at raising money but surprisingly average at running a business.\n\nFundraising is an important skill, but it’s not the business.\n\nYour job isn’t to convince investors you’re building something valuable.\n\nIt’s to actually build something valuable.\n\nThe best fundraising strategy is having a business investors can’t ignore."
+        },
+        {
+          "id": "2114288358968971589",
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "views": 10996,
+          "views_label": "11.0K",
+          "likes": 138,
+          "bookmarks": 152,
+          "retweets": 3,
+          "replies": 26,
+          "quotes": 3,
+          "engagement": 322,
+          "engagement_rate": 2.93,
+          "bookmark_like_ratio": 110.1,
+          "baseline_multiple": 3.7,
+          "virality_score": 69,
+          "highlight": true,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 10:30 CET",
+          "url": "https://x.com/ryangrowthh/status/2114288358968971589",
+          "hook": "I open-sourced a Grok Bot that helps creators make $$$.",
+          "original_en": "I open-sourced a Grok Bot that helps creators make $$$.\n\nIt's called \"Sponsorship Hunter,\" and its only job is to find sponsors for small creators, apply to campaigns, and hunt for money-making opportunities.\n\nIt studies your X account and brand and tracks who sponsors creators like you (works on any social platform). \n\nI attached it with 7 skills and detailed instructions so it actually works.\n\nEnjoy! 👉 https://t.co/ifbe7SOJ0g"
+        },
+        {
+          "id": "2114417250178408640",
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 7439,
+          "views_label": "7.4K",
+          "likes": 123,
+          "bookmarks": 5,
+          "retweets": 0,
+          "replies": 60,
+          "quotes": 1,
+          "engagement": 189,
+          "engagement_rate": 2.54,
+          "bookmark_like_ratio": 4.1,
+          "baseline_multiple": 0.3,
+          "virality_score": 55,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 19:02 CET",
+          "url": "https://x.com/tibo_maker/status/2114417250178408640",
+          "hook": "1st time getting payout above $1,000",
+          "original_en": "1st time getting payout above $1,000 \n\nno matter your level of wealth, it feels incredible \nit's sort of validation of my journey .. \n\nand feels way more than i deserve \n\nthank you my friends, you're awesome 🙌 https://t.co/pUVNKo34XI"
+        },
+        {
+          "id": "2114405377127186593",
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "views": 6375,
+          "views_label": "6.4K",
+          "likes": 48,
+          "bookmarks": 127,
+          "retweets": 5,
+          "replies": 4,
+          "quotes": 0,
+          "engagement": 184,
+          "engagement_rate": 2.89,
+          "bookmark_like_ratio": 264.6,
+          "baseline_multiple": 1.3,
+          "virality_score": 69,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 18:15 CET",
+          "url": "https://x.com/aiedge_/status/2114405377127186593",
+          "hook": "SpaceX AI engineer Nick Miller gives a FULL speech on how to launch 25+ Grok Bot agent swarms at once.",
+          "original_en": "SpaceX AI engineer Nick Miller gives a FULL speech on how to launch 25+ Grok Bot agent swarms at once.\n\nLiterally 10x your productivity in seconds. \n\nA must-watch:  https://t.co/Ez7QZs9do2"
+        },
+        {
+          "id": "2114427277719318816",
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "views": 5370,
+          "views_label": "5.4K",
+          "likes": 41,
+          "bookmarks": 115,
+          "retweets": 2,
+          "replies": 3,
+          "quotes": 0,
+          "engagement": 161,
+          "engagement_rate": 3.0,
+          "bookmark_like_ratio": 280.5,
+          "baseline_multiple": 1.1,
+          "virality_score": 67,
+          "highlight": false,
+          "self_quote": false,
+          "self_quote_label": null,
+          "created_at": "2026-10-25 19:42 CET",
+          "url": "https://x.com/aiedge_/status/2114427277719318816",
+          "hook": "The most CRACKED way to prompt Grok Bot.",
+          "original_en": "The most CRACKED way to prompt Grok Bot.\n\nUse this prompt template, and the bot will do anything you ask: https://t.co/V7lYWnXGZ8"
+        }
+      ],
+      "hits_count": 16,
+      "total_views": 951392,
+      "day_roster": [
+        {
+          "handle": "@sahilypatel",
+          "name": "Sahil",
+          "views": 442722,
+          "total_views": 718716,
+          "posts_count": 6,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/sahilypatel/status/2114348755357249622"
+        },
+        {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "views": 53695,
+          "total_views": 54839,
+          "posts_count": 4,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/jaysmith_ai/status/2114202560118853634"
+        },
+        {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "views": 39404,
+          "total_views": 52185,
+          "posts_count": 3,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/ryangrowthh/status/2114167560690413870"
+        },
+        {
+          "handle": "@eptwts",
+          "name": "EP",
+          "views": 20003,
+          "total_views": 20003,
+          "posts_count": 1,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/eptwts/status/2114326916060622954"
+        },
+        {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "views": 16665,
+          "total_views": 24104,
+          "posts_count": 2,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/tibo_maker/status/2114343809454625168"
+        },
+        {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "views": 14285,
+          "total_views": 40212,
+          "posts_count": 3,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/EXM7777/status/2114460995066474940"
+        },
+        {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "views": 12578,
+          "total_views": 14098,
+          "posts_count": 2,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/HeyYoGB/status/2114327364012548575"
+        },
+        {
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "views": 11788,
+          "total_views": 11788,
+          "posts_count": 1,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/alexcooldev/status/2114379700802076753"
+        },
+        {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "views": 11351,
+          "total_views": 20039,
+          "posts_count": 11,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/Trace_Cohen/status/2114328555580489777"
+        },
+        {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "views": 6375,
+          "total_views": 24750,
+          "posts_count": 6,
+          "hit": true,
+          "is_you": false,
+          "best_url": "https://x.com/aiedge_/status/2114405377127186593"
+        },
+        {
+          "handle": "@heyshrutimishra",
+          "name": "Shruti",
+          "views": 4684,
+          "total_views": 10199,
+          "posts_count": 3,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/heyshrutimishra/status/2114336301071655094"
+        },
+        {
+          "handle": "@Nicolascole77",
+          "name": "Nicolas Cole 🚢👻",
+          "views": 4560,
+          "total_views": 9042,
+          "posts_count": 3,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/Nicolascole77/status/2114371414534893909"
+        },
+        {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "views": 3574,
+          "total_views": 6083,
+          "posts_count": 2,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/rubenhassid/status/2114326106132062375"
+        },
+        {
+          "handle": "@camolNFT",
+          "name": "camol",
+          "views": 2829,
+          "total_views": 9318,
+          "posts_count": 4,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/camolNFT/status/2114353485114155232"
+        },
+        {
+          "handle": "@VibeMarketer_",
+          "name": "J.B.",
+          "views": 2827,
+          "total_views": 7334,
+          "posts_count": 3,
+          "hit": false,
+          "is_you": true,
+          "best_url": "https://x.com/VibeMarketer_/status/2114357060607639645"
+        },
+        {
+          "handle": "@pmitu",
+          "name": "Paul Mit",
+          "views": 2491,
+          "total_views": 2902,
+          "posts_count": 2,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/pmitu/status/2114344421722644915"
+        },
+        {
+          "handle": "@damianplayer",
+          "name": "Damian Player",
+          "views": 2425,
+          "total_views": 2425,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/damianplayer/status/2114389716032422149"
+        },
+        {
+          "handle": "@heyrobinai",
+          "name": "Robin Delta",
+          "views": 2294,
+          "total_views": 2294,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/heyrobinai/status/2114361215686500756"
+        },
+        {
+          "handle": "@leonabboud",
+          "name": "Leon Abboud",
+          "views": 2139,
+          "total_views": 3488,
+          "posts_count": 3,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/leonabboud/status/2114444974712557878"
+        },
+        {
+          "handle": "@thatGTMdude",
+          "name": "Abhishek Nair",
+          "views": 1917,
+          "total_views": 4437,
+          "posts_count": 4,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/thatGTMdude/status/2114324610066039046"
+        },
+        {
+          "handle": "@iksly2",
+          "name": "Kemi",
+          "views": 1239,
+          "total_views": 1954,
+          "posts_count": 2,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/iksly2/status/2114388265297952836"
+        },
+        {
+          "handle": "@godofprompt",
+          "name": "God of Prompt",
+          "views": 1181,
+          "total_views": 1181,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/godofprompt/status/2114418290881941824"
+        },
+        {
+          "handle": "@oggii_0",
+          "name": "Oogie",
+          "views": 736,
+          "total_views": 736,
+          "posts_count": 1,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/oggii_0/status/2114231078843973707"
+        },
+        {
+          "handle": "@zoost03",
+          "name": "Zoost",
+          "views": 194,
+          "total_views": 437,
+          "posts_count": 4,
+          "hit": false,
+          "is_you": false,
+          "best_url": "https://x.com/zoost03/status/2114138889019424971"
+        },
+        {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        },
+        {
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "views": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "hit": false,
+          "is_you": false,
+          "best_url": null
+        }
+      ],
+      "you_rank": {
+        "handle": "@VibeMarketer_",
+        "best_views": 2827,
+        "total_views": 7334,
+        "posts_count": 3,
+        "best_url": "https://x.com/VibeMarketer_/status/2114357060607639645",
+        "rank_among_watchlist": 15,
+        "total_accounts": 26,
+        "vs_5k": "pending",
+        "vs_10k": "pending"
+      },
+      "no_hits": [
+        {
+          "handle": "@damianplayer",
+          "max_views": 2425,
+          "reason": "Posted 1 original(s), max reached 2.4K views (below 5k floor)."
+        },
+        {
+          "handle": "@hectorserrranoo",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@rubenhassid",
+          "max_views": 3574,
+          "reason": "Posted 2 original(s), max reached 3.6K views (below 5k floor)."
+        },
+        {
+          "handle": "@heyrobinai",
+          "max_views": 2294,
+          "reason": "Posted 1 original(s), max reached 2.3K views (below 5k floor)."
+        },
+        {
+          "handle": "@heyshrutimishra",
+          "max_views": 4684,
+          "reason": "Posted 3 original(s), max reached 4.7K views (below 5k floor)."
+        },
+        {
+          "handle": "@godofprompt",
+          "max_views": 1181,
+          "reason": "Posted 1 original(s), max reached 1.2K views (below 5k floor)."
+        },
+        {
+          "handle": "@ecoleai",
+          "max_views": null,
+          "reason": "No qualifying original post in this 24h Europe/Oslo window (replies/quote-posts only or quiet day)."
+        },
+        {
+          "handle": "@Nicolascole77",
+          "max_views": 4560,
+          "reason": "Posted 3 original(s), max reached 4.6K views (below 5k floor)."
+        },
+        {
+          "handle": "@leonabboud",
+          "max_views": 2139,
+          "reason": "Posted 3 original(s), max reached 2.1K views (below 5k floor)."
+        },
+        {
+          "handle": "@oggii_0",
+          "max_views": 736,
+          "reason": "Posted 1 original(s), max reached 736 views (below 5k floor)."
+        },
+        {
+          "handle": "@iksly2",
+          "max_views": 1239,
+          "reason": "Posted 2 original(s), max reached 1.2K views (below 5k floor)."
+        },
+        {
+          "handle": "@camolNFT",
+          "max_views": 2829,
+          "reason": "Posted 4 original(s), max reached 2.8K views (below 5k floor)."
+        },
+        {
+          "handle": "@pmitu",
+          "max_views": 2491,
+          "reason": "Posted 2 original(s), max reached 2.5K views (below 5k floor)."
+        },
+        {
+          "handle": "@thatGTMdude",
+          "max_views": 1917,
+          "reason": "Posted 4 original(s), max reached 1.9K views (below 5k floor)."
+        },
+        {
+          "handle": "@zoost03",
+          "max_views": 194,
+          "reason": "Posted 4 original(s), max reached 194 views (below 5k floor)."
+        }
+      ],
+      "outsiders": [],
+      "patterns": [
+        {
+          "title": "Done-First Outbound Proof (`I gave Claude Code one job...`)",
+          "summary": "Posts showing an agent building the prospect's asset BEFORE outreach (@ryangrowthh 39.4K views, 793 bookmarks, 155.2% B/L ratio) trigger massive bookmark velocity because operators immediately want to clone the workflow."
+        },
+        {
+          "title": "Hidden Native Tool & File Mechanics (`AskUserQuestionTool`, `CLAUDE.md` 40% token trim)",
+          "summary": "Naming an exact internal tool or file mechanism (@EXM7777 14.3K views / 140.6% B/L & 13.7K views / 88.1% B/L) outperforms generic prompt tips by 3x-5x on save rate."
+        },
+        {
+          "title": "Open-Source Paper / Prompt Repo Curations (`HyperAgents`, Leaked System Prompts)",
+          "summary": "Packaging complex research papers or scattered system prompts into a single bookmarkable breakdown (@HeyYoGB 209.6% B/L, @aiedge_ 264.6% & 280.5% B/L) drives the highest save-to-like ratios on the entire watchlist."
+        },
+        {
+          "title": "Cross-Niche Feed Reality Checks",
+          "summary": "Contrasting dry operator habits against real timeline mechanics (@sahilypatel 442.7K views ★ & 272.8K views ★, 179x baseline multiple) breaks out of the core niche into broad timeline distribution."
+        }
+      ],
+      "excluded_hits": [
+        {
+          "id": "2114328191125102914",
+          "handle": "@ryangrowthh",
+          "name": "Ryan (Quote of @elonmusk)",
+          "views": 18180,
+          "views_label": "18.2K",
+          "likes": 620,
+          "bookmarks": 38,
+          "retweets": 12,
+          "replies": 29,
+          "engagement_rate": 3.84,
+          "bookmark_like_ratio": 6.1,
+          "highlight": true,
+          "note": "Third-party quote post (excluded from originals-only hits per desk rules, tracked in radar).",
+          "url": "https://x.com/ryangrowthh/status/2114328191125102914",
+          "hook": "Quote-post piggybacking on high-velocity macro tech thread."
+        },
+        {
+          "id": "2114306562567381202",
+          "handle": "@alexcooldev",
+          "name": "AlexCoolDev (Quote Post)",
+          "views": 7887,
+          "views_label": "7.9K",
+          "likes": 45,
+          "bookmarks": 18,
+          "retweets": 2,
+          "replies": 8,
+          "engagement_rate": 0.93,
+          "bookmark_like_ratio": 40.0,
+          "highlight": false,
+          "note": "Third-party quote post (excluded from originals-only leaderboard).",
+          "url": "https://x.com/alexcooldev/status/2114306562567381202",
+          "hook": "Commentary quote-post on AI coding workflows."
+        },
+        {
+          "id": "2114202967121559668",
+          "handle": "@heyshrutimishra",
+          "name": "Shruti Mishra (Quote Post)",
+          "views": 5722,
+          "views_label": "5.7K",
+          "likes": 97,
+          "bookmarks": 41,
+          "retweets": 6,
+          "replies": 11,
+          "engagement_rate": 2.71,
+          "bookmark_like_ratio": 42.3,
+          "highlight": false,
+          "note": "Third-party quote post (excluded from originals-only leaderboard).",
+          "url": "https://x.com/heyshrutimishra/status/2114202967121559668",
+          "hook": "Quote-post reaction on AI model release."
+        }
+      ]
+    }
+  },
+  "excluded_hits": [
+    {
+      "id": "2114328191125102914",
+      "handle": "@ryangrowthh",
+      "name": "Ryan (Quote of @elonmusk)",
+      "views": 18180,
+      "views_label": "18.2K",
+      "likes": 620,
+      "bookmarks": 38,
+      "retweets": 12,
+      "replies": 29,
+      "engagement_rate": 3.84,
+      "bookmark_like_ratio": 6.1,
+      "highlight": true,
+      "note": "Third-party quote post (excluded from originals-only hits per desk rules, tracked in radar).",
+      "url": "https://x.com/ryangrowthh/status/2114328191125102914",
+      "hook": "Quote-post piggybacking on high-velocity macro tech thread.",
+      "posted_at": "2026-10-25T16:00:00+01:00"
+    },
+    {
+      "id": "2114306562567381202",
+      "handle": "@alexcooldev",
+      "name": "AlexCoolDev (Quote Post)",
+      "views": 7887,
+      "views_label": "7.9K",
+      "likes": 45,
+      "bookmarks": 18,
+      "retweets": 2,
+      "replies": 8,
+      "engagement_rate": 0.93,
+      "bookmark_like_ratio": 40.0,
+      "highlight": false,
+      "note": "Third-party quote post (excluded from originals-only leaderboard).",
+      "url": "https://x.com/alexcooldev/status/2114306562567381202",
+      "hook": "Commentary quote-post on AI coding workflows.",
+      "posted_at": "2026-10-25T16:00:00+01:00"
+    },
+    {
+      "id": "2114202967121559668",
+      "handle": "@heyshrutimishra",
+      "name": "Shruti Mishra (Quote Post)",
+      "views": 5722,
+      "views_label": "5.7K",
+      "likes": 97,
+      "bookmarks": 41,
+      "retweets": 6,
+      "replies": 11,
+      "engagement_rate": 2.71,
+      "bookmark_like_ratio": 42.3,
+      "highlight": false,
+      "note": "Third-party quote post (excluded from originals-only leaderboard).",
+      "url": "https://x.com/heyshrutimishra/status/2114202967121559668",
+      "hook": "Quote-post reaction on AI model release.",
+      "posted_at": "2026-10-25T16:00:00+01:00"
+    }
+  ],
+  "outsiders": [],
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2114348755357249622",
+      "handle": "@sahilypatel",
+      "views": 442722,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 2,
+      "id": "2114222189725790329",
+      "handle": "@sahilypatel",
+      "views": 272794,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 3,
+      "id": "2114202560118853634",
+      "handle": "@jaysmith_ai",
+      "views": 53695,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 4,
+      "id": "2114167560690413870",
+      "handle": "@ryangrowthh",
+      "views": 39404,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 5,
+      "id": "2114326916060622954",
+      "handle": "@eptwts",
+      "views": 20003,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 6,
+      "id": "2114343809454625168",
+      "handle": "@tibo_maker",
+      "views": 16665,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 7,
+      "id": "2114460995066474940",
+      "handle": "@EXM7777",
+      "views": 14285,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 8,
+      "id": "2114416450765291751",
+      "handle": "@EXM7777",
+      "views": 13745,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 9,
+      "id": "2114327364012548575",
+      "handle": "@HeyYoGB",
+      "views": 12578,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 10,
+      "id": "2114357310785208401",
+      "handle": "@EXM7777",
+      "views": 12182,
+      "lane": "watchlist"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-10-25",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Grok Bot",
+        "rank": 1,
+        "score": 43.5,
+        "posts": 4,
+        "authors": 3
+      },
+      {
+        "keyword": "agent",
+        "rank": 2,
+        "score": 26.9,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Grok Bots",
+        "rank": 3,
+        "score": 19.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "important skill",
+        "rank": 4,
+        "score": 14.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "workflows",
+        "rank": 5,
+        "score": 14.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "CRM",
+        "rank": 6,
+        "score": 14.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "videos",
+        "rank": 7,
+        "score": 12.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "models",
+        "rank": 8,
+        "score": 10.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Claude Code",
+        "rank": 9,
+        "score": 8.8,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "updated": "2026-10-26T11:09:41+01:00",
+  "board_url": "https://vibemarketer94.github.io/x-virality-board/",
+  "trend_radar": {
+    "date": "2026-10-25",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-10-26T11:09:23+01:00",
+      "label24": "25.10 11:09 - 26.10 11:09 UTC",
+      "label48": "24.10 11:09 - 26.10 11:09 UTC"
+    },
+    "corpus": {
+      "posts": 19,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 19,
+        "outsider": 0,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 4/10 (40%) matched trends · coincidence/other 6, trend 4",
+      "headline": "5 of 16 board hits (31%) matched 24-48 h trends. Median views: trend 14.3K vs non-trend 12.2K (mean 17.9K vs 78.4K). Watchlist: 5/16 on trend. 0 hits with video, median - vs - without.",
+      "takeaway": "Trend posts won on the watchlist (14.3K vs 12.2K median): put the keywords of the top radar topic in the first line (Grok Bot & Agent Swarms).",
+      "stats": {
+        "all": {
+          "n": 16,
+          "trend_n": 5,
+          "trend_pct": 31,
+          "avg_trend": 17861,
+          "avg_other": 78371,
+          "median_trend": 14285,
+          "median_other": 12182,
+          "verdicts": {
+            "trend": 5,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 11
+          }
+        },
+        "watchlist": {
+          "n": 16,
+          "trend_n": 5,
+          "trend_pct": 31,
+          "avg_trend": 17861,
+          "avg_other": 78371,
+          "median_trend": 14285,
+          "median_other": 12182,
+          "verdicts": {
+            "trend": 5,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 11
+          }
+        },
+        "outsiders": {
+          "n": 0,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": null,
+          "median_trend": null,
+          "median_other": null,
+          "verdicts": {
+            "trend": 0,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 4,
+          "trend_pct": 40,
+          "avg_trend": 20733,
+          "avg_other": 135857,
+          "median_trend": 15475,
+          "median_other": 36849,
+          "verdicts": {
+            "trend": 4,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 6
+          }
+        },
+        "media": {
+          "video_n": 0,
+          "median_video": null,
+          "other_n": 0,
+          "median_other": null
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Grok Bot & Agent Swarms",
+        "keywords": [
+          "Grok Bot",
+          "agent",
+          "Grok Bots"
+        ],
+        "posts_24h": 5,
+        "posts_48h": 7,
+        "views_24h": 55273,
+        "views_prev24h": 50400,
+        "views_48h": 105673,
+        "momentum": "up x2.32",
+        "heat_raw": 24.33,
+        "evidence": [
+          {
+            "handle": "@ryangrowthh",
+            "views": 39404,
+            "url": "https://x.com/ryangrowthh/status/2114167560690413870",
+            "hook": "50 valuable Grok Bots for 𝕏 creators:",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@tibo_maker",
+            "views": 16665,
+            "url": "https://x.com/tibo_maker/status/2114343809454625168",
+            "hook": "10 months ago I made 15 predictions for 2026",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@EXM7777",
+            "views": 14285,
+            "url": "https://x.com/EXM7777/status/2114460995066474940",
+            "hook": "if you want to get the best out of Hermes today... do this:",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Claude Code & Portable Workflows",
+        "keywords": [
+          "workflows",
+          "CRM",
+          "Claude Code"
+        ],
+        "posts_24h": 4,
+        "posts_48h": 4,
+        "views_24h": 51415,
+        "views_prev24h": 0,
+        "views_48h": 51415,
+        "momentum": "new · 24 h only",
+        "heat_raw": 16.37,
+        "evidence": [
+          {
+            "handle": "@tibo_maker",
+            "views": 16665,
+            "url": "https://x.com/tibo_maker/status/2114343809454625168",
+            "hook": "10 months ago I made 15 predictions for 2026",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@EXM7777",
+            "views": 14285,
+            "url": "https://x.com/EXM7777/status/2114460995066474940",
+            "hook": "if you want to get the best out of Hermes today... do this:",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@HeyYoGB",
+            "views": 12578,
+            "url": "https://x.com/HeyYoGB/status/2114327364012548575",
+            "hook": "10 grok bots you need to make internet money",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 67
+      },
+      {
+        "name": "AI Models & Video Production",
+        "keywords": [
+          "important skill",
+          "models",
+          "videos"
+        ],
+        "posts_24h": 3,
+        "posts_48h": 4,
+        "views_24h": 43536,
+        "views_prev24h": 53695,
+        "views_48h": 97231,
+        "momentum": "up x2.63",
+        "heat_raw": 14.81,
+        "evidence": [
+          {
+            "handle": "@jaysmith_ai",
+            "views": 53695,
+            "url": "https://x.com/jaysmith_ai/status/2114202560118853634",
+            "hook": "Ready to rethink the way you create videos? 💬🚀",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@eptwts",
+            "views": 20003,
+            "url": "https://x.com/eptwts/status/2114326916060622954",
+            "hook": "i've been thinking about what the most AI-proof online business models are, here's my conclusion:",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@EXM7777",
+            "views": 12182,
+            "url": "https://x.com/EXM7777/status/2114357310785208401",
+            "hook": "if you're wondering whether you should go all in on AI, the math is simple...",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 61
+      }
+    ],
+    "ideas": [
+      {
+        "title": "4 Creator Grok Bots That Actually Move Pipeline",
+        "topic": "Grok Bot & Agent Swarms",
+        "keywords": [
+          "Grok Bots",
+          "Grok Bot",
+          "workflows"
+        ],
+        "format": "screencast",
+        "visual_type": "screencast",
+        "visual": "50s screen recording tagging @bot to install 4 Grok Bots and showing the morning outlier digest + sponsor table.",
+        "angle": "Instead of installing 50 random Grok Bots, wire 4 focused Grok Bot workflows for outlier scouting, reply sniping, and sponsor tracking.",
+        "hook_en": "how to pick the only 4 Grok Bots out of 50 creator lists that actually move views and revenue in your daily workflows",
+        "why": "@ryangrowthh hit 39.4K views and 793 bookmarks (155.2% B/L) and @HeyYoGB hit 12.6K views and 285 bookmarks (209.6% B/L) on Grok Bots lists.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist-virals"
+      },
+      {
+        "title": "Portable Agent Workspace Interview (.md Stack)",
+        "topic": "Claude Code & Portable Workflows",
+        "keywords": [
+          "Claude Code",
+          "Grok Bot",
+          "workflows"
+        ],
+        "format": "screencast",
+        "visual_type": "screencast",
+        "visual": "60s terminal recording of an agent running a 5-question context interview and generating workspace_rules.md and daily_ops.md.",
+        "angle": "Run a 1-time context collection interview so your daily workflows portable .md workspace works across Hermes, Claude Code, and Grok Bot.",
+        "hook_en": "how to build a portable agent workspace in 8 minutes that works across Hermes, Claude Code, and Grok Bot",
+        "why": "@EXM7777 cleared 14.3K views and 315 bookmarks (140.6% B/L) with a context interview setup for Hermes, Claude Code, and Grok Bot.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist-virals"
+      },
+      {
+        "title": "7-Skill Sponsorship Hunter Agent for Creators",
+        "topic": "Grok Bot & Agent Swarms",
+        "keywords": [
+          "Grok Bot",
+          "agent",
+          "CRM"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "55s walkthrough of the 7 skills scanning peer creator sponsors and logging decision makers directly into a CRM table.",
+        "angle": "Attach 7 modular skills to a Grok Bot agent that scrapes peer sponsors and tracks outreach inside your CRM.",
+        "hook_en": "how to build a 7-skill Sponsorship Hunter Grok Bot agent that books brand deals and logs leads in your CRM",
+        "why": "@ryangrowthh's open-source Sponsorship Hunter Grok Bot hit 11.0K views with 152 bookmarks (110.1% B/L).",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist-virals"
+      },
+      {
+        "title": "25+ Parallel Grok Bot Agent Swarms Queue",
+        "topic": "Grok Bot & Agent Swarms",
+        "keywords": [
+          "Grok Bot",
+          "agent",
+          "workflows"
+        ],
+        "format": "screencast",
+        "visual_type": "screencast",
+        "visual": "60s split-screen terminal launching 25 parallel Grok Bot workers from swarm_queue.json and running a single verifier script.",
+        "angle": "Structure your weekly research and QA workflows as atomic JSON jobs so 25 Grok Bot agent workers run in parallel.",
+        "hook_en": "how to orchestrate 25+ Grok Bot agent swarms in parallel for 10x daily operator output across your workflows",
+        "why": "@aiedge_ hit 264.6% and 280.5% bookmark-to-like ratios on Grok Bot swarm and prompt template breakdowns.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist-virals"
+      },
+      {
+        "title": "Conversational AI Video Pipeline + Multi-Model Routing",
+        "topic": "AI Models & Video Production",
+        "keywords": [
+          "videos",
+          "models",
+          "Claude Code"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "60s screencast generating a 4-row beat sheet in Claude Code, sending it to CapCut via ChatGPT, and routing code tasks between Opus 5.5 and Sonnet 5.5 models.",
+        "angle": "Pair Claude Code beat sheets with conversational CapCut plugins for short videos while splitting heavy and light tasks across frontier models.",
+        "hook_en": "how to cut short-form videos production from 3 hours to 9 minutes using Claude Code and frontier AI models",
+        "why": "@jaysmith_ai reached 53.7K views on CapCut + ChatGPT video creation and @alexcooldev hit 11.8K views (68.5% B/L) on Opus 5.5 + Sonnet 5.5 routing.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist-virals"
+      }
+    ],
+    "articles": [
+      {
+        "title": "The 2026 Operator Stack: Grok Bots, Portable .md Workspaces, and Context Moats",
+        "thesis": "Standalone chat boxes are dead weight - winning operators wire Grok Bots and Claude Code directly into their browser, inbox, CRM, and portable .md memory files.",
+        "outline": [
+          "Why 140%-280% bookmark-to-like ratios cluster around installable Grok Bots and custom .md workspaces",
+          "The 1-time context collection interview that makes your setup portable across Hermes, Claude Code, and Grok Bot",
+          "Wiring outbound prospecting, sponsor hunting, and SaaS spend audits into your CRM with human approval gates",
+          "Security and memory checklists so your vibe-coded tools never leak company docs"
+        ],
+        "keywords": [
+          "Grok Bot",
+          "Claude Code",
+          "CRM",
+          "workflows"
+        ],
+        "visual": "Architecture diagram mapping tools_inventory.md -> Claude Code / Grok Bot -> inbox & CRM approval queues.",
+        "why": "Combines the top save-velocity hits of the day (@HeyYoGB 209.6% B/L, @EXM7777 140.6% B/L, @ryangrowthh 155.2% B/L, @tibo_maker 16.7K views).",
+        "x_keywords": []
+      },
+      {
+        "title": "Voice-First Long-Form + Multi-Model Task Routing for Solo Builders",
+        "thesis": "Solo operators ship 10x faster when they dictate first drafts on a 15-minute walk and split product execution between Opus 5.5 and Sonnet 5.5.",
+        "outline": [
+          "Why typing from a blank page triggers performative writing and kills raw operator voice",
+          "The 15-minute Wispr Flow / Willow walk-and-talk protocol + Claude Code cleanup prompt",
+          "Routing core architecture to Opus 5.5 and batching 30 UI/bug tickets to Sonnet 5.5",
+          "Pairing every tactical article with a 60-second CapCut + ChatGPT screen recording"
+        ],
+        "keywords": [
+          "Claude Code",
+          "models",
+          "videos",
+          "workflows"
+        ],
+        "visual": "Side-by-side workflow card showing phone voice dictation -> Claude Code cleanup -> Opus 5.5 / Sonnet 5.5 task split.",
+        "why": "Synthesizes @EXM7777 (13.7K views, 88.1% B/L), @alexcooldev (11.8K views, 68.5% B/L), and @jaysmith_ai (53.7K views).",
+        "x_keywords": []
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2114348755357249622",
+        "handle": "@sahilypatel",
+        "lane": "watchlist",
+        "views": 442722,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114222189725790329",
+        "handle": "@sahilypatel",
+        "lane": "watchlist",
+        "views": 272794,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114202560118853634",
+        "handle": "@jaysmith_ai",
+        "lane": "watchlist",
+        "views": 53695,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": "AI Models & Video Production",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114167560690413870",
+        "handle": "@ryangrowthh",
+        "lane": "watchlist",
+        "views": 39404,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Grok Bot",
+          "Grok Bots"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Grok Bot & Agent Swarms",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114326916060622954",
+        "handle": "@eptwts",
+        "lane": "watchlist",
+        "views": 20003,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": "AI Models & Video Production",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114343809454625168",
+        "handle": "@tibo_maker",
+        "lane": "watchlist",
+        "views": 16665,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agent",
+          "CRM"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Grok Bot & Agent Swarms",
+        "self_quote": true,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114460995066474940",
+        "handle": "@EXM7777",
+        "lane": "watchlist",
+        "views": 14285,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Grok Bot",
+          "agent",
+          "workflows"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Grok Bot & Agent Swarms",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114416450765291751",
+        "handle": "@EXM7777",
+        "lane": "watchlist",
+        "views": 13745,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114327364012548575",
+        "handle": "@HeyYoGB",
+        "lane": "watchlist",
+        "views": 12578,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Grok Bot",
+          "Grok Bots",
+          "CRM"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Grok Bot & Agent Swarms",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114357310785208401",
+        "handle": "@EXM7777",
+        "lane": "watchlist",
+        "views": 12182,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "important skill"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "AI Models & Video Production",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114379700802076753",
+        "handle": "@alexcooldev",
+        "lane": "watchlist",
+        "views": 11788,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": true,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114328555580489777",
+        "handle": "@Trace_Cohen",
+        "lane": "watchlist",
+        "views": 11351,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "important skill"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "AI Models & Video Production",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114288358968971589",
+        "handle": "@ryangrowthh",
+        "lane": "watchlist",
+        "views": 10996,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Grok Bot"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Grok Bot & Agent Swarms",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114417250178408640",
+        "handle": "@tibo_maker",
+        "lane": "watchlist",
+        "views": 7439,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114405377127186593",
+        "handle": "@aiedge_",
+        "lane": "watchlist",
+        "views": 6375,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Grok Bot",
+          "agent"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Grok Bot & Agent Swarms",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114427277719318816",
+        "handle": "@aiedge_",
+        "lane": "watchlist",
+        "views": 5370,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Grok Bot"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Grok Bot & Agent Swarms",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": null,
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  },
+  "leaderboards": {
+    "as_of": "2026-10-25",
+    "tracking_start": "2026-10-23",
+    "days_included": [
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25"
+    ],
+    "month_days_included": [
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25"
+    ],
+    "week": {
+      "label": "Rolling week · Oct 23–Oct 25",
+      "range": [
+        "2026-10-23",
+        "2026-10-25"
+      ],
+      "entries": [
+        {
+          "handle": "@sahilypatel",
+          "name": "Sahil",
+          "hits": 2,
+          "days": 1,
+          "views": 715516,
+          "best": 442722,
+          "best_url": "https://x.com/sahilypatel/status/2114348755357249622"
+        },
+        {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 6,
+          "days": 3,
+          "views": 220916,
+          "best": 121122,
+          "best_url": "https://x.com/ryangrowthh/status/2113540940472463606"
+        },
+        {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 11,
+          "days": 3,
+          "views": 203315,
+          "best": 51800,
+          "best_url": "https://x.com/EXM7777/status/2113692938236748065"
+        },
+        {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 7,
+          "days": 3,
+          "views": 123788,
+          "best": 47577,
+          "best_url": "https://x.com/tibo_maker/status/2113633105776890343"
+        },
+        {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "hits": 2,
+          "days": 2,
+          "views": 114775,
+          "best": 61080,
+          "best_url": "https://x.com/jaysmith_ai/status/2113697034616385800"
+        },
+        {
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "hits": 2,
+          "days": 2,
+          "views": 108189,
+          "best": 74749,
+          "best_url": "https://x.com/ecoleai/status/2114096091973173311"
+        },
+        {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "hits": 2,
+          "days": 2,
+          "views": 84437,
+          "best": 75612,
+          "best_url": "https://x.com/rubenhassid/status/2113948625927852196"
+        },
+        {
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "hits": 3,
+          "days": 2,
+          "views": 36705,
+          "best": 18802,
+          "best_url": "https://x.com/alexcooldev/status/2113708852147638345"
+        },
+        {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "hits": 3,
+          "days": 2,
+          "views": 30407,
+          "best": 18662,
+          "best_url": "https://x.com/aiedge_/status/2113646686988067028"
+        },
+        {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "hits": 3,
+          "days": 3,
+          "views": 25297,
+          "best": 11351,
+          "best_url": "https://x.com/Trace_Cohen/status/2114328555580489777"
+        },
+        {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "hits": 2,
+          "days": 2,
+          "views": 21555,
+          "best": 12578,
+          "best_url": "https://x.com/HeyYoGB/status/2114327364012548575"
+        },
+        {
+          "handle": "@camolNFT",
+          "name": "camol",
+          "hits": 2,
+          "days": 1,
+          "views": 21314,
+          "best": 12931,
+          "best_url": "https://x.com/camolNFT/status/2113401536436900274"
+        },
+        {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "hits": 2,
+          "days": 1,
+          "views": 20677,
+          "best": 14682,
+          "best_url": "https://x.com/hectorserrranoo/status/2113676414973259782"
+        },
+        {
+          "handle": "@eptwts",
+          "name": "EP",
+          "hits": 1,
+          "days": 1,
+          "views": 20003,
+          "best": 20003,
+          "best_url": "https://x.com/eptwts/status/2114326916060622954"
+        },
+        {
+          "handle": "@iksly2",
+          "name": "Kemi",
+          "hits": 1,
+          "days": 1,
+          "views": 17126,
+          "best": 17126,
+          "best_url": "https://x.com/iksly2/status/2113533810759397760"
+        }
+      ]
+    },
+    "month": {
+      "label": "October 2026 · from Oct 23",
+      "range": [
+        "2026-10-23",
+        "2026-10-25"
+      ],
+      "entries": [
+        {
+          "handle": "@sahilypatel",
+          "name": "Sahil",
+          "hits": 2,
+          "days": 1,
+          "views": 715516,
+          "best": 442722,
+          "best_url": "https://x.com/sahilypatel/status/2114348755357249622"
+        },
+        {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 6,
+          "days": 3,
+          "views": 220916,
+          "best": 121122,
+          "best_url": "https://x.com/ryangrowthh/status/2113540940472463606"
+        },
+        {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 11,
+          "days": 3,
+          "views": 203315,
+          "best": 51800,
+          "best_url": "https://x.com/EXM7777/status/2113692938236748065"
+        },
+        {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 7,
+          "days": 3,
+          "views": 123788,
+          "best": 47577,
+          "best_url": "https://x.com/tibo_maker/status/2113633105776890343"
+        },
+        {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "hits": 2,
+          "days": 2,
+          "views": 114775,
+          "best": 61080,
+          "best_url": "https://x.com/jaysmith_ai/status/2113697034616385800"
+        },
+        {
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "hits": 2,
+          "days": 2,
+          "views": 108189,
+          "best": 74749,
+          "best_url": "https://x.com/ecoleai/status/2114096091973173311"
+        },
+        {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "hits": 2,
+          "days": 2,
+          "views": 84437,
+          "best": 75612,
+          "best_url": "https://x.com/rubenhassid/status/2113948625927852196"
+        },
+        {
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "hits": 3,
+          "days": 2,
+          "views": 36705,
+          "best": 18802,
+          "best_url": "https://x.com/alexcooldev/status/2113708852147638345"
+        },
+        {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "hits": 3,
+          "days": 2,
+          "views": 30407,
+          "best": 18662,
+          "best_url": "https://x.com/aiedge_/status/2113646686988067028"
+        },
+        {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "hits": 3,
+          "days": 3,
+          "views": 25297,
+          "best": 11351,
+          "best_url": "https://x.com/Trace_Cohen/status/2114328555580489777"
+        },
+        {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "hits": 2,
+          "days": 2,
+          "views": 21555,
+          "best": 12578,
+          "best_url": "https://x.com/HeyYoGB/status/2114327364012548575"
+        },
+        {
+          "handle": "@camolNFT",
+          "name": "camol",
+          "hits": 2,
+          "days": 1,
+          "views": 21314,
+          "best": 12931,
+          "best_url": "https://x.com/camolNFT/status/2113401536436900274"
+        },
+        {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "hits": 2,
+          "days": 1,
+          "views": 20677,
+          "best": 14682,
+          "best_url": "https://x.com/hectorserrranoo/status/2113676414973259782"
+        },
+        {
+          "handle": "@eptwts",
+          "name": "EP",
+          "hits": 1,
+          "days": 1,
+          "views": 20003,
+          "best": 20003,
+          "best_url": "https://x.com/eptwts/status/2114326916060622954"
+        },
+        {
+          "handle": "@iksly2",
+          "name": "Kemi",
+          "hits": 1,
+          "days": 1,
+          "views": 17126,
+          "best": 17126,
+          "best_url": "https://x.com/iksly2/status/2113533810759397760"
+        }
+      ]
+    }
+  }
+}
