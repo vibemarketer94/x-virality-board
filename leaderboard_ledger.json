@@ -1390,6 +1390,146 @@
           "best_url": "https://x.com/rubenhassid/status/2115775660811510020"
         }
       }
+    },
+    "2026-11-01": {
+      "accounts": {
+        "exm7777": {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 3,
+          "best": 334536,
+          "total": 381993,
+          "best_url": "https://x.com/EXM7777/status/2116999470437339364"
+        },
+        "heyshrutimishra": {
+          "handle": "@heyshrutimishra",
+          "name": "Shruti",
+          "hits": 3,
+          "best": 281969,
+          "total": 313379,
+          "best_url": "https://x.com/heyshrutimishra/status/2116931531000156348"
+        },
+        "jamesoncamp": {
+          "handle": "@JamesonCamp",
+          "name": "James Camp 🛠,🛠",
+          "hits": 2,
+          "best": 132221,
+          "total": 137550,
+          "best_url": "https://x.com/JamesonCamp/status/2116772962213023782"
+        },
+        "gregisenberg": {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 3,
+          "best": 100172,
+          "total": 149665,
+          "best_url": "https://x.com/gregisenberg/status/2116990224257491106"
+        },
+        "petergyang": {
+          "handle": "@petergyang",
+          "name": "Peter Yang",
+          "hits": 6,
+          "best": 33079,
+          "total": 104585,
+          "best_url": "https://x.com/petergyang/status/2116921336006410550"
+        },
+        "ryangrowthh": {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 3,
+          "best": 28247,
+          "total": 56569,
+          "best_url": "https://x.com/ryangrowthh/status/2116802427563241870"
+        },
+        "oggii_0": {
+          "handle": "@oggii_0",
+          "name": "Oogie",
+          "hits": 1,
+          "best": 13128,
+          "total": 13128,
+          "best_url": "https://x.com/oggii_0/status/2116766347409719643"
+        },
+        "heyyogb": {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "hits": 1,
+          "best": 12886,
+          "total": 12886,
+          "best_url": "https://x.com/HeyYoGB/status/2116870874456580463"
+        },
+        "aiedge_": {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "hits": 2,
+          "best": 12447,
+          "total": 19276,
+          "best_url": "https://x.com/aiedge_/status/2116772271763427517"
+        },
+        "rubenhassid": {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "hits": 2,
+          "best": 11576,
+          "total": 16870,
+          "best_url": "https://x.com/rubenhassid/status/2116772225214829009"
+        },
+        "orenmeetsworld": {
+          "handle": "@orenmeetsworld",
+          "name": "Oren John",
+          "hits": 2,
+          "best": 10846,
+          "total": 18056,
+          "best_url": "https://x.com/orenmeetsworld/status/2116931346874638617"
+        },
+        "av1dlive": {
+          "handle": "@Av1dlive",
+          "name": "Avid",
+          "hits": 1,
+          "best": 9560,
+          "total": 9560,
+          "best_url": "https://x.com/Av1dlive/status/2116939989221359739"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 1,
+          "best": 8652,
+          "total": 8652,
+          "best_url": "https://x.com/tibo_maker/status/2116932894715199996"
+        },
+        "trace_cohen": {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "hits": 1,
+          "best": 8471,
+          "total": 8471,
+          "best_url": "https://x.com/Trace_Cohen/status/2116682189643317406"
+        },
+        "pmitu": {
+          "handle": "@pmitu",
+          "name": "Paul Mit",
+          "hits": 1,
+          "best": 8043,
+          "total": 8043,
+          "best_url": "https://x.com/pmitu/status/2116961973854408992"
+        },
+        "nicolascole77": {
+          "handle": "@Nicolascole77",
+          "name": "Nicolas Cole 🚢👻",
+          "hits": 1,
+          "best": 7186,
+          "total": 7186,
+          "best_url": "https://x.com/Nicolascole77/status/2116732467621028178"
+        },
+        "damianplayer": {
+          "handle": "@damianplayer",
+          "name": "Damian Player",
+          "hits": 1,
+          "best": 5437,
+          "total": 5437,
+          "best_url": "https://x.com/damianplayer/status/2116928555175022758"
+        }
+      }
     }
   }
 }
