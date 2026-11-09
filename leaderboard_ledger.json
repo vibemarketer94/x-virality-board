@@ -1530,6 +1530,970 @@
           "best_url": "https://x.com/damianplayer/status/2116928555175022758"
         }
       }
+    },
+    "2026-11-02": {
+      "accounts": {
+        "businessbarista": {
+          "handle": "@businessbarista",
+          "name": "Alex Lieberman",
+          "hits": 1,
+          "best": 441148,
+          "total": 441148,
+          "best_url": "https://x.com/businessbarista/status/2117074356384022649"
+        },
+        "itsolelehmann": {
+          "handle": "@itsolelehmann",
+          "name": "Ole Lehmann",
+          "hits": 1,
+          "best": 230011,
+          "total": 230011,
+          "best_url": "https://x.com/itsolelehmann/status/2117304766447370694"
+        },
+        "gregisenberg": {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 3,
+          "best": 96207,
+          "total": 210866,
+          "best_url": "https://x.com/gregisenberg/status/2117355427138543629"
+        },
+        "jamesoncamp": {
+          "handle": "@JamesonCamp",
+          "name": "James Camp 🛠,🛠",
+          "hits": 2,
+          "best": 85439,
+          "total": 118125,
+          "best_url": "https://x.com/JamesonCamp/status/2117090283745853721"
+        },
+        "pmitu": {
+          "handle": "@pmitu",
+          "name": "Paul Mit",
+          "hits": 1,
+          "best": 62792,
+          "total": 62792,
+          "best_url": "https://x.com/pmitu/status/2117316560570487047"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 3,
+          "best": 47254,
+          "total": 67102,
+          "best_url": "https://x.com/tibo_maker/status/2117270757294174625"
+        },
+        "codyschneider": {
+          "handle": "@codyschneider",
+          "name": "Cody Schneider",
+          "hits": 1,
+          "best": 37103,
+          "total": 37103,
+          "best_url": "https://x.com/codyschneider/status/2117256668102762864"
+        },
+        "danshipper": {
+          "handle": "@danshipper",
+          "name": "Dan Shipper",
+          "hits": 2,
+          "best": 25754,
+          "total": 32906,
+          "best_url": "https://x.com/danshipper/status/2117362815820300590"
+        },
+        "rileybrown": {
+          "handle": "@rileybrown",
+          "name": "Riley Brown",
+          "hits": 2,
+          "best": 25234,
+          "total": 35113,
+          "best_url": "https://x.com/rileybrown/status/2117072141602681310"
+        },
+        "iksly2": {
+          "handle": "@iksly2",
+          "name": "Kemi",
+          "hits": 1,
+          "best": 24538,
+          "total": 24538,
+          "best_url": "https://x.com/iksly2/status/2117144049232572469"
+        },
+        "petergyang": {
+          "handle": "@petergyang",
+          "name": "Peter Yang",
+          "hits": 3,
+          "best": 24355,
+          "total": 40500,
+          "best_url": "https://x.com/petergyang/status/2117333424403042330"
+        },
+        "ryangrowthh": {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 1,
+          "best": 22726,
+          "total": 22726,
+          "best_url": "https://x.com/ryangrowthh/status/2117310424765100097"
+        },
+        "oggii_0": {
+          "handle": "@oggii_0",
+          "name": "Oogie",
+          "hits": 1,
+          "best": 17943,
+          "total": 17943,
+          "best_url": "https://x.com/oggii_0/status/2117136305507471842"
+        },
+        "orenmeetsworld": {
+          "handle": "@orenmeetsworld",
+          "name": "Oren John",
+          "hits": 4,
+          "best": 12950,
+          "total": 30795,
+          "best_url": "https://x.com/orenmeetsworld/status/2117080867168551227"
+        },
+        "eptwts": {
+          "handle": "@eptwts",
+          "name": "EP",
+          "hits": 1,
+          "best": 12307,
+          "total": 12307,
+          "best_url": "https://x.com/eptwts/status/2117290588596805867"
+        },
+        "exm7777": {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 2,
+          "best": 12047,
+          "total": 23791,
+          "best_url": "https://x.com/EXM7777/status/2117315302656704543"
+        },
+        "hectorserrranoo": {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "hits": 1,
+          "best": 8475,
+          "total": 8475,
+          "best_url": "https://x.com/hectorserrranoo/status/2117351027930542178"
+        },
+        "aiedge_": {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "hits": 1,
+          "best": 7929,
+          "total": 7929,
+          "best_url": "https://x.com/aiedge_/status/2117074227367145576"
+        },
+        "rubenhassid": {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "hits": 1,
+          "best": 7165,
+          "total": 7165,
+          "best_url": "https://x.com/rubenhassid/status/2117134619354997027"
+        },
+        "trace_cohen": {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "hits": 1,
+          "best": 5796,
+          "total": 5796,
+          "best_url": "https://x.com/Trace_Cohen/status/2117227021533106509"
+        },
+        "nicolascole77": {
+          "handle": "@Nicolascole77",
+          "name": "Nicolas Cole 🚢👻",
+          "hits": 1,
+          "best": 5575,
+          "total": 5575,
+          "best_url": "https://x.com/Nicolascole77/status/2117094602180022689"
+        },
+        "mvanhorn": {
+          "handle": "@mvanhorn",
+          "name": "Matt Van Horn",
+          "hits": 1,
+          "best": 5013,
+          "total": 5013,
+          "best_url": "https://x.com/mvanhorn/status/2117308542780903554"
+        },
+        "vibemarketer_": {
+          "handle": "@VibeMarketer_",
+          "name": "J.B.",
+          "hits": 2,
+          "best": 23523,
+          "total": 29004,
+          "best_url": "https://x.com/VibeMarketer_/status/2117254652114980928"
+        }
+      }
+    },
+    "2026-11-03": {
+      "accounts": {
+        "petergyang": {
+          "handle": "@petergyang",
+          "name": "Peter Yang",
+          "hits": 3,
+          "best": 830702,
+          "total": 851867,
+          "best_url": "https://x.com/petergyang/status/2117638801296380159"
+        },
+        "gregisenberg": {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 2,
+          "best": 347643,
+          "total": 365471,
+          "best_url": "https://x.com/gregisenberg/status/2117734977312047537"
+        },
+        "ryangrowthh": {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 1,
+          "best": 177632,
+          "total": 177632,
+          "best_url": "https://x.com/ryangrowthh/status/2117633599608631361"
+        },
+        "jaysmith_ai": {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "hits": 1,
+          "best": 73029,
+          "total": 73029,
+          "best_url": "https://x.com/jaysmith_ai/status/2117501016698675673"
+        },
+        "alexfinn": {
+          "handle": "@AlexFinn",
+          "name": "Alex Finn",
+          "hits": 2,
+          "best": 48519,
+          "total": 83419,
+          "best_url": "https://x.com/AlexFinn/status/2117460262538408004"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 2,
+          "best": 40363,
+          "total": 50348,
+          "best_url": "https://x.com/tibo_maker/status/2117538512962740710"
+        },
+        "businessbarista": {
+          "handle": "@businessbarista",
+          "name": "Alex Lieberman",
+          "hits": 3,
+          "best": 35834,
+          "total": 56651,
+          "best_url": "https://x.com/businessbarista/status/2117753352020767049"
+        },
+        "heyblake": {
+          "handle": "@heyblake",
+          "name": "Blake Emal",
+          "hits": 1,
+          "best": 32219,
+          "total": 32219,
+          "best_url": "https://x.com/heyblake/status/2117649295654662294"
+        },
+        "rileybrown": {
+          "handle": "@rileybrown",
+          "name": "Riley Brown",
+          "hits": 4,
+          "best": 29528,
+          "total": 86650,
+          "best_url": "https://x.com/rileybrown/status/2117430960501166459"
+        },
+        "av1dlive": {
+          "handle": "@Av1dlive",
+          "name": "Avid",
+          "hits": 2,
+          "best": 27120,
+          "total": 34109,
+          "best_url": "https://x.com/Av1dlive/status/2117660576575066412"
+        },
+        "orenmeetsworld": {
+          "handle": "@orenmeetsworld",
+          "name": "Oren John",
+          "hits": 1,
+          "best": 24910,
+          "total": 24910,
+          "best_url": "https://x.com/orenmeetsworld/status/2117656260430709109"
+        },
+        "ecoleai": {
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "hits": 1,
+          "best": 21235,
+          "total": 21235,
+          "best_url": "https://x.com/ecoleai/status/2117569330229473469"
+        },
+        "exm7777": {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 2,
+          "best": 16421,
+          "total": 25686,
+          "best_url": "https://x.com/EXM7777/status/2117623733322170376"
+        },
+        "jamesoncamp": {
+          "handle": "@JamesonCamp",
+          "name": "James Camp 🛠,🛠",
+          "hits": 1,
+          "best": 16051,
+          "total": 16051,
+          "best_url": "https://x.com/JamesonCamp/status/2117643539299606758"
+        },
+        "codyschneider": {
+          "handle": "@codyschneider",
+          "name": "Cody Schneider",
+          "hits": 1,
+          "best": 12116,
+          "total": 12116,
+          "best_url": "https://x.com/codyschneider/status/2117648052777336889"
+        },
+        "eptwts": {
+          "handle": "@eptwts",
+          "name": "EP",
+          "hits": 1,
+          "best": 8928,
+          "total": 8928,
+          "best_url": "https://x.com/eptwts/status/2117681524774461666"
+        },
+        "trevin": {
+          "handle": "@trevin",
+          "name": "Trevin Chow",
+          "hits": 1,
+          "best": 7784,
+          "total": 7784,
+          "best_url": "https://x.com/trevin/status/2117640445136367872"
+        },
+        "itsalexvacca": {
+          "handle": "@itsalexvacca",
+          "name": "Alex Vacca",
+          "hits": 1,
+          "best": 7007,
+          "total": 7007,
+          "best_url": "https://x.com/itsalexvacca/status/2117615741629546606"
+        },
+        "heyyogb": {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "hits": 1,
+          "best": 6976,
+          "total": 6976,
+          "best_url": "https://x.com/HeyYoGB/status/2117580298343113191"
+        },
+        "nicolascole77": {
+          "handle": "@Nicolascole77",
+          "name": "Nicolas Cole 🚢👻",
+          "hits": 1,
+          "best": 6950,
+          "total": 6950,
+          "best_url": "https://x.com/Nicolascole77/status/2117449212577132705"
+        },
+        "rubenhassid": {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "hits": 1,
+          "best": 6689,
+          "total": 6689,
+          "best_url": "https://x.com/rubenhassid/status/2117512704512692628"
+        },
+        "aiedge_": {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "hits": 1,
+          "best": 5828,
+          "total": 5828,
+          "best_url": "https://x.com/aiedge_/status/2117564950130372741"
+        },
+        "pmitu": {
+          "handle": "@pmitu",
+          "name": "Paul Mit",
+          "hits": 1,
+          "best": 5586,
+          "total": 5586,
+          "best_url": "https://x.com/pmitu/status/2117694299085373563"
+        },
+        "itsolelehmann": {
+          "handle": "@itsolelehmann",
+          "name": "Ole Lehmann",
+          "hits": 1,
+          "best": 5237,
+          "total": 5237,
+          "best_url": "https://x.com/itsolelehmann/status/2117742371723247686"
+        },
+        "vibemarketer_": {
+          "handle": "@VibeMarketer_",
+          "name": "J.B.",
+          "hits": 2,
+          "best": 20009,
+          "total": 25205,
+          "best_url": "https://x.com/VibeMarketer_/status/2117622970482925706"
+        }
+      }
+    },
+    "2026-11-04": {
+      "accounts": {
+        "camolnft": {
+          "handle": "@camolNFT",
+          "name": "camol",
+          "hits": 3,
+          "best": 3053770,
+          "total": 3071695,
+          "best_url": "https://x.com/camolNFT/status/2117993106545009046"
+        },
+        "ryangrowthh": {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 1,
+          "best": 330301,
+          "total": 330301,
+          "best_url": "https://x.com/ryangrowthh/status/2117806540770136329"
+        },
+        "alexfinn": {
+          "handle": "@AlexFinn",
+          "name": "Alex Finn",
+          "hits": 1,
+          "best": 128392,
+          "total": 128392,
+          "best_url": "https://x.com/AlexFinn/status/2117786932830982510"
+        },
+        "aiedge_": {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "hits": 4,
+          "best": 80038,
+          "total": 127857,
+          "best_url": "https://x.com/aiedge_/status/2118005624479052232"
+        },
+        "jaysmith_ai": {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "hits": 1,
+          "best": 75422,
+          "total": 75422,
+          "best_url": "https://x.com/jaysmith_ai/status/2118010291619606944"
+        },
+        "petergyang": {
+          "handle": "@petergyang",
+          "name": "Peter Yang",
+          "hits": 4,
+          "best": 65034,
+          "total": 115460,
+          "best_url": "https://x.com/petergyang/status/2118002134390321590"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 2,
+          "best": 52082,
+          "total": 57682,
+          "best_url": "https://x.com/tibo_maker/status/2117927423043924009"
+        },
+        "gregisenberg": {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 3,
+          "best": 51041,
+          "total": 142837,
+          "best_url": "https://x.com/gregisenberg/status/2117975597045682468"
+        },
+        "ecoleai": {
+          "handle": "@ecoleai",
+          "name": "Easton Coleford",
+          "hits": 1,
+          "best": 43564,
+          "total": 43564,
+          "best_url": "https://x.com/ecoleai/status/2118080962307203516"
+        },
+        "itsolelehmann": {
+          "handle": "@itsolelehmann",
+          "name": "Ole Lehmann",
+          "hits": 3,
+          "best": 43443,
+          "total": 62693,
+          "best_url": "https://x.com/itsolelehmann/status/2117760242759106901"
+        },
+        "trevin": {
+          "handle": "@trevin",
+          "name": "Trevin Chow",
+          "hits": 1,
+          "best": 18430,
+          "total": 18430,
+          "best_url": "https://x.com/trevin/status/2117959797664567329"
+        },
+        "pmitu": {
+          "handle": "@pmitu",
+          "name": "Paul Mit",
+          "hits": 2,
+          "best": 15552,
+          "total": 21321,
+          "best_url": "https://x.com/pmitu/status/2117968354925498795"
+        },
+        "danshipper": {
+          "handle": "@danshipper",
+          "name": "Dan Shipper",
+          "hits": 1,
+          "best": 15403,
+          "total": 15403,
+          "best_url": "https://x.com/danshipper/status/2117980132040114685"
+        },
+        "exm7777": {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 2,
+          "best": 13122,
+          "total": 21252,
+          "best_url": "https://x.com/EXM7777/status/2118040835564752973"
+        },
+        "orenmeetsworld": {
+          "handle": "@orenmeetsworld",
+          "name": "Oren John",
+          "hits": 1,
+          "best": 13066,
+          "total": 13066,
+          "best_url": "https://x.com/orenmeetsworld/status/2118036205208236449"
+        },
+        "trace_cohen": {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "hits": 1,
+          "best": 12916,
+          "total": 12916,
+          "best_url": "https://x.com/Trace_Cohen/status/2117989934808146017"
+        },
+        "codyschneider": {
+          "handle": "@codyschneider",
+          "name": "Cody Schneider",
+          "hits": 2,
+          "best": 12023,
+          "total": 21819,
+          "best_url": "https://x.com/codyschneider/status/2117798980503675201"
+        },
+        "itsalexvacca": {
+          "handle": "@itsalexvacca",
+          "name": "Alex Vacca",
+          "hits": 1,
+          "best": 8018,
+          "total": 8018,
+          "best_url": "https://x.com/itsalexvacca/status/2117936910027137143"
+        },
+        "rubenhassid": {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "hits": 2,
+          "best": 7871,
+          "total": 13870,
+          "best_url": "https://x.com/rubenhassid/status/2117859387637465489"
+        },
+        "businessbarista": {
+          "handle": "@businessbarista",
+          "name": "Alex Lieberman",
+          "hits": 1,
+          "best": 7741,
+          "total": 7741,
+          "best_url": "https://x.com/businessbarista/status/2118009497201373621"
+        },
+        "av1dlive": {
+          "handle": "@Av1dlive",
+          "name": "Avid",
+          "hits": 1,
+          "best": 7415,
+          "total": 7415,
+          "best_url": "https://x.com/Av1dlive/status/2118060198241914931"
+        },
+        "hectorserrranoo": {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "hits": 1,
+          "best": 5911,
+          "total": 5911,
+          "best_url": "https://x.com/hectorserrranoo/status/2117774800445931849"
+        },
+        "heyyogb": {
+          "handle": "@HeyYoGB",
+          "name": "GBE",
+          "hits": 1,
+          "best": 5725,
+          "total": 5725,
+          "best_url": "https://x.com/HeyYoGB/status/2117930606411882543"
+        },
+        "vibemarketer_": {
+          "handle": "@VibeMarketer_",
+          "name": "J.B.",
+          "hits": 1,
+          "best": 10542,
+          "total": 10542,
+          "best_url": "https://x.com/VibeMarketer_/status/2117986818012676389"
+        }
+      }
+    },
+    "2026-11-05": {
+      "accounts": {
+        "ericzakariasson": {
+          "handle": "@ericzakariasson",
+          "name": "eric zakariasson",
+          "hits": 2,
+          "best": 134355,
+          "total": 144482,
+          "best_url": "https://x.com/ericzakariasson/status/2118439897333969344"
+        },
+        "aiedge_": {
+          "handle": "@aiedge_",
+          "name": "AI Edge",
+          "hits": 2,
+          "best": 126789,
+          "total": 132718,
+          "best_url": "https://x.com/aiedge_/status/2118411021903876462"
+        },
+        "alexfinn": {
+          "handle": "@AlexFinn",
+          "name": "Alex Finn",
+          "hits": 1,
+          "best": 51485,
+          "total": 51485,
+          "best_url": "https://x.com/AlexFinn/status/2118402980340961507"
+        },
+        "gregisenberg": {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 1,
+          "best": 38327,
+          "total": 38327,
+          "best_url": "https://x.com/gregisenberg/status/2118337933681873316"
+        },
+        "alexcooldev": {
+          "handle": "@alexcooldev",
+          "name": "Alex Nguyen",
+          "hits": 2,
+          "best": 34597,
+          "total": 40072,
+          "best_url": "https://x.com/alexcooldev/status/2118446768006541800"
+        },
+        "oggii_0": {
+          "handle": "@oggii_0",
+          "name": "Oogie",
+          "hits": 2,
+          "best": 33996,
+          "total": 65312,
+          "best_url": "https://x.com/oggii_0/status/2118367820878848176"
+        },
+        "heyshrutimishra": {
+          "handle": "@heyshrutimishra",
+          "name": "Shruti",
+          "hits": 1,
+          "best": 32967,
+          "total": 32967,
+          "best_url": "https://x.com/heyshrutimishra/status/2118360001311920156"
+        },
+        "exm7777": {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 3,
+          "best": 29555,
+          "total": 44956,
+          "best_url": "https://x.com/EXM7777/status/2118347740304584718"
+        },
+        "codyschneider": {
+          "handle": "@codyschneider",
+          "name": "Cody Schneider",
+          "hits": 3,
+          "best": 24456,
+          "total": 39159,
+          "best_url": "https://x.com/codyschneider/status/2118372772850118714"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 1,
+          "best": 18751,
+          "total": 18751,
+          "best_url": "https://x.com/tibo_maker/status/2118289869428380138"
+        },
+        "heyblake": {
+          "handle": "@heyblake",
+          "name": "Blake Emal",
+          "hits": 3,
+          "best": 15647,
+          "total": 33771,
+          "best_url": "https://x.com/heyblake/status/2118177119201116194"
+        },
+        "danshipper": {
+          "handle": "@danshipper",
+          "name": "Dan Shipper",
+          "hits": 2,
+          "best": 15429,
+          "total": 22180,
+          "best_url": "https://x.com/danshipper/status/2118170810841965023"
+        },
+        "av1dlive": {
+          "handle": "@Av1dlive",
+          "name": "Avid",
+          "hits": 1,
+          "best": 13883,
+          "total": 13883,
+          "best_url": "https://x.com/Av1dlive/status/2118386892270149703"
+        },
+        "trace_cohen": {
+          "handle": "@Trace_Cohen",
+          "name": "Trace Cohen",
+          "hits": 1,
+          "best": 13174,
+          "total": 13174,
+          "best_url": "https://x.com/Trace_Cohen/status/2118155287349645494"
+        },
+        "businessbarista": {
+          "handle": "@businessbarista",
+          "name": "Alex Lieberman",
+          "hits": 2,
+          "best": 13144,
+          "total": 21167,
+          "best_url": "https://x.com/businessbarista/status/2118377039207989308"
+        },
+        "hectorserrranoo": {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "hits": 2,
+          "best": 11568,
+          "total": 18277,
+          "best_url": "https://x.com/hectorserrranoo/status/2118162134647570494"
+        },
+        "pmitu": {
+          "handle": "@pmitu",
+          "name": "Paul Mit",
+          "hits": 2,
+          "best": 11110,
+          "total": 18656,
+          "best_url": "https://x.com/pmitu/status/2118339802361970749"
+        },
+        "eptwts": {
+          "handle": "@eptwts",
+          "name": "EP",
+          "hits": 2,
+          "best": 9823,
+          "total": 15295,
+          "best_url": "https://x.com/eptwts/status/2118144932107932019"
+        },
+        "jamesoncamp": {
+          "handle": "@JamesonCamp",
+          "name": "James Camp 🛠,🛠",
+          "hits": 1,
+          "best": 9203,
+          "total": 9203,
+          "best_url": "https://x.com/JamesonCamp/status/2118398225879310466"
+        },
+        "itsolelehmann": {
+          "handle": "@itsolelehmann",
+          "name": "Ole Lehmann",
+          "hits": 1,
+          "best": 8620,
+          "total": 8620,
+          "best_url": "https://x.com/itsolelehmann/status/2118462889799352742"
+        },
+        "iksly2": {
+          "handle": "@iksly2",
+          "name": "Kemi",
+          "hits": 1,
+          "best": 8492,
+          "total": 8492,
+          "best_url": "https://x.com/iksly2/status/2118393777379250341"
+        },
+        "petergyang": {
+          "handle": "@petergyang",
+          "name": "Peter Yang",
+          "hits": 2,
+          "best": 7358,
+          "total": 13997,
+          "best_url": "https://x.com/petergyang/status/2118383722974359865"
+        },
+        "mvanhorn": {
+          "handle": "@mvanhorn",
+          "name": "Matt Van Horn",
+          "hits": 1,
+          "best": 6822,
+          "total": 6822,
+          "best_url": "https://x.com/mvanhorn/status/2118165117431091484"
+        },
+        "ryangrowthh": {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 1,
+          "best": 6810,
+          "total": 6810,
+          "best_url": "https://x.com/ryangrowthh/status/2118363221493248161"
+        },
+        "damianplayer": {
+          "handle": "@damianplayer",
+          "name": "Damian Player",
+          "hits": 1,
+          "best": 5627,
+          "total": 5627,
+          "best_url": "https://x.com/damianplayer/status/2118353517970690508"
+        }
+      }
+    },
+    "2026-11-08": {
+      "accounts": {
+        "exm7777": {
+          "handle": "@EXM7777",
+          "name": "Machina",
+          "hits": 5,
+          "best": 102131,
+          "total": 151460,
+          "best_url": "https://x.com/EXM7777/status/2119442470815887688"
+        },
+        "petergyang": {
+          "handle": "@petergyang",
+          "name": "Peter Yang",
+          "hits": 3,
+          "best": 98534,
+          "total": 183010,
+          "best_url": "https://x.com/petergyang/status/2119448683918049412"
+        },
+        "jamesoncamp": {
+          "handle": "@JamesonCamp",
+          "name": "James Camp 🛠,🛠",
+          "hits": 4,
+          "best": 71016,
+          "total": 91985,
+          "best_url": "https://x.com/JamesonCamp/status/2119227611683733509"
+        },
+        "gregisenberg": {
+          "handle": "@gregisenberg",
+          "name": "GREG ISENBERG",
+          "hits": 2,
+          "best": 58037,
+          "total": 81857,
+          "best_url": "https://x.com/gregisenberg/status/2119213778294435966"
+        },
+        "jaysmith_ai": {
+          "handle": "@jaysmith_ai",
+          "name": "Jay",
+          "hits": 1,
+          "best": 44839,
+          "total": 44839,
+          "best_url": "https://x.com/jaysmith_ai/status/2119312652837241006"
+        },
+        "hectorserrranoo": {
+          "handle": "@hectorserrranoo",
+          "name": "Hector",
+          "hits": 1,
+          "best": 42116,
+          "total": 42116,
+          "best_url": "https://x.com/hectorserrranoo/status/2119210866210111635"
+        },
+        "pmitu": {
+          "handle": "@pmitu",
+          "name": "Paul Mit",
+          "hits": 3,
+          "best": 29140,
+          "total": 45415,
+          "best_url": "https://x.com/pmitu/status/2119486860699586874"
+        },
+        "rileybrown": {
+          "handle": "@rileybrown",
+          "name": "Riley Brown",
+          "hits": 2,
+          "best": 27262,
+          "total": 43692,
+          "best_url": "https://x.com/rileybrown/status/2119229301392392221"
+        },
+        "oggii_0": {
+          "handle": "@oggii_0",
+          "name": "Oogie",
+          "hits": 1,
+          "best": 25170,
+          "total": 25170,
+          "best_url": "https://x.com/oggii_0/status/2119313994431582590"
+        },
+        "rubenhassid": {
+          "handle": "@rubenhassid",
+          "name": "Ruben Hassid",
+          "hits": 2,
+          "best": 23833,
+          "total": 31267,
+          "best_url": "https://x.com/rubenhassid/status/2119399547701014962"
+        },
+        "av1dlive": {
+          "handle": "@Av1dlive",
+          "name": "Avid",
+          "hits": 2,
+          "best": 23226,
+          "total": 29139,
+          "best_url": "https://x.com/Av1dlive/status/2119377443844935712"
+        },
+        "itsolelehmann": {
+          "handle": "@itsolelehmann",
+          "name": "Ole Lehmann",
+          "hits": 1,
+          "best": 16246,
+          "total": 16246,
+          "best_url": "https://x.com/itsolelehmann/status/2119370094488760612"
+        },
+        "mvanhorn": {
+          "handle": "@mvanhorn",
+          "name": "Matt Van Horn",
+          "hits": 1,
+          "best": 11834,
+          "total": 11834,
+          "best_url": "https://x.com/mvanhorn/status/2119459773955641557"
+        },
+        "eptwts": {
+          "handle": "@eptwts",
+          "name": "EP",
+          "hits": 1,
+          "best": 10698,
+          "total": 10698,
+          "best_url": "https://x.com/eptwts/status/2119413330108453367"
+        },
+        "orenmeetsworld": {
+          "handle": "@orenmeetsworld",
+          "name": "Oren John",
+          "hits": 2,
+          "best": 10010,
+          "total": 15452,
+          "best_url": "https://x.com/orenmeetsworld/status/2119455765660582167"
+        },
+        "ryangrowthh": {
+          "handle": "@ryangrowthh",
+          "name": "Ryan",
+          "hits": 2,
+          "best": 9271,
+          "total": 18245,
+          "best_url": "https://x.com/ryangrowthh/status/2119271194730111054"
+        },
+        "businessbarista": {
+          "handle": "@businessbarista",
+          "name": "Alex Lieberman",
+          "hits": 1,
+          "best": 8186,
+          "total": 8186,
+          "best_url": "https://x.com/businessbarista/status/2119528079848779789"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 1,
+          "best": 7176,
+          "total": 7176,
+          "best_url": "https://x.com/tibo_maker/status/2119489842937483629"
+        },
+        "nicolascole77": {
+          "handle": "@Nicolascole77",
+          "name": "Nicolas Cole 🚢👻",
+          "hits": 1,
+          "best": 7050,
+          "total": 7050,
+          "best_url": "https://x.com/Nicolascole77/status/2119269957313696235"
+        },
+        "damianplayer": {
+          "handle": "@damianplayer",
+          "name": "Damian Player",
+          "hits": 1,
+          "best": 6916,
+          "total": 6916,
+          "best_url": "https://x.com/damianplayer/status/2119433258144346263"
+        },
+        "codyschneider": {
+          "handle": "@codyschneider",
+          "name": "Cody Schneider",
+          "hits": 1,
+          "best": 6084,
+          "total": 6084,
+          "best_url": "https://x.com/codyschneider/status/2119203266923794627"
+        }
+      }
     }
   }
 }
